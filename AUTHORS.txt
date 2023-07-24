@@ -3,4 +3,6 @@
 # See the latter for an explanation.
 #
 # Names should be added to this file as:
-# Kil Hyung-jin <orioncactus@gmail.com>
+# Name or Organization <email address> 
+
+Kil Hyung-jin <orioncactus@gmail.com>
