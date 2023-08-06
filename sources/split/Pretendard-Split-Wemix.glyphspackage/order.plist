@@ -54,6 +54,14 @@ z.ss20,
 .notdef,
 comma.ss19,
 semicolon.ss19,
+bullet.ss19,
+hyphenbullet.ss19,
+trianglebullet.ss19,
+bullet.case.ss19,
+hyphenbullet.case.ss19,
 comma.full.ss19,
-comma.tf.ss19
+comma.tf.ss19,
+whiteBullet.ss19,
+whiteBullet.case.ss19,
+trianglebullet.case.ss19
 )
