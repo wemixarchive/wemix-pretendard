@@ -51,5 +51,9 @@ w.ss20,
 x.ss20,
 y.ss20,
 z.ss20,
-.notdef
+.notdef,
+comma.ss19,
+semicolon.ss19,
+comma.full.ss19,
+comma.tf.ss19
 )

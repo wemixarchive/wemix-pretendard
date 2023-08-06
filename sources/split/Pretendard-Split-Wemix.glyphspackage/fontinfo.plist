@@ -589,15 +589,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -625,15 +621,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -661,15 +653,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -697,15 +685,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -731,15 +715,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -767,15 +747,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -803,15 +779,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -840,15 +812,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -876,15 +844,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -912,15 +876,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -948,15 +908,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -984,15 +940,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1020,15 +972,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1054,15 +1002,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1090,15 +1034,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1126,15 +1066,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1163,15 +1099,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1199,15 +1131,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
@@ -1232,15 +1160,11 @@ value = (
 "six=six.ss01",
 "nine=nine.ss01",
 "six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01"
-);
-},
-{
-name = "Decompose Glyphs";
-value = (
-six.full,
-nine.full,
-version
+"nine.tf=nine.tf.ss01",
+"comma.tf=comma.tf.ss19",
+"comma=comma.ss19",
+"semicolon=semicolon.ss19",
+"comma.full=comma.full.ss19"
 );
 }
 );
