@@ -15,10 +15,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(276,1024,l),
-(276,608,l),
-(1108,608,l),
-(1108,1024,l)
+(252,984,l),
+(252,568,l),
+(1084,568,l),
+(1084,984,l)
 );
 }
 );
@@ -51,17 +51,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(260,928,l),
-(260,704,l),
-(998,704,l),
-(998,928,l)
+(258,928,l),
+(258,704,l),
+(996,704,l),
+(996,928,l)
 );
 }
 );
 width = 1254;
 }
 );
-metricWidth = bullet;
+metricWidth = bullet.ss19;
 userData = {
 interface.gridadjust.original = "{'width': 1196, 'leftMargin': 110, 'rightMargin': 110}";
 "interface.width-adjustments" = (

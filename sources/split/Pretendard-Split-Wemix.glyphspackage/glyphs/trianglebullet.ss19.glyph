@@ -58,7 +58,7 @@ nodes = (
 width = 1254;
 }
 );
-metricWidth = bullet;
+metricWidth = bullet.ss19;
 userData = {
 com.typemytype.robofont.guideline.magnetic.zkVwYbBwEs = 5;
 "interface.width-adjustments" = (
