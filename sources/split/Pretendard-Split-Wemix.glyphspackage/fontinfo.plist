@@ -88,6 +88,74 @@ code = "languagesystem DFLT dflt;
 name = Languagesystems;
 }
 );
+features = (
+{
+code = "sub A by A.ss20;
+sub B by B.ss20;
+sub C by C.ss20;
+sub D by D.ss20;
+sub E by E.ss20;
+sub F by F.ss20;
+sub G by G.ss20;
+sub H by H.ss20;
+sub I by I.ss20;
+sub J by J.ss20;
+sub K by K.ss20;
+sub L by L.ss20;
+sub M by M.ss20;
+sub N by N.ss20;
+sub O by O.ss20;
+sub P by P.ss20;
+sub Q by Q.ss20;
+sub R by R.ss20;
+sub S by S.ss20;
+sub T by T.ss20;
+sub U by U.ss20;
+sub V by V.ss20;
+sub W by W.ss20;
+sub X by X.ss20;
+sub Y by Y.ss20;
+sub Z by Z.ss20;
+sub a by a.ss20;
+sub b by b.ss20;
+sub c by c.ss20;
+sub d by d.ss20;
+sub e by e.ss20;
+sub f by f.ss20;
+sub g by g.ss20;
+sub h by h.ss20;
+sub i by i.ss20;
+sub j by j.ss20;
+sub k by k.ss20;
+sub l by l.ss20;
+sub m by m.ss20;
+sub n by n.ss20;
+sub o by o.ss20;
+sub p by p.ss20;
+sub q by q.ss20;
+sub r by r.ss20;
+sub s by s.ss20;
+sub t by t.ss20;
+sub u by u.ss20;
+sub v by v.ss20;
+sub w by w.ss20;
+sub x by x.ss20;
+sub y by y.ss20;
+sub z by z.ss20;
+";
+labels = (
+{
+language = dflt;
+value = "Tabular latin";
+},
+{
+language = KOR;
+value = "Tabular latin";
+}
+);
+tag = ss20;
+}
+);
 fontMaster = (
 {
 axesValues = (
