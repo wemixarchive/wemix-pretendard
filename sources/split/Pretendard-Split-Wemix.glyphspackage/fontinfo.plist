@@ -88,74 +88,6 @@ code = "languagesystem DFLT dflt;
 name = Languagesystems;
 }
 );
-features = (
-{
-code = "sub A by A.ss20;
-sub B by B.ss20;
-sub C by C.ss20;
-sub D by D.ss20;
-sub E by E.ss20;
-sub F by F.ss20;
-sub G by G.ss20;
-sub H by H.ss20;
-sub I by I.ss20;
-sub J by J.ss20;
-sub K by K.ss20;
-sub L by L.ss20;
-sub M by M.ss20;
-sub N by N.ss20;
-sub O by O.ss20;
-sub P by P.ss20;
-sub Q by Q.ss20;
-sub R by R.ss20;
-sub S by S.ss20;
-sub T by T.ss20;
-sub U by U.ss20;
-sub V by V.ss20;
-sub W by W.ss20;
-sub X by X.ss20;
-sub Y by Y.ss20;
-sub Z by Z.ss20;
-sub a by a.ss20;
-sub b by b.ss20;
-sub c by c.ss20;
-sub d by d.ss20;
-sub e by e.ss20;
-sub f by f.ss20;
-sub g by g.ss20;
-sub h by h.ss20;
-sub i by i.ss20;
-sub j by j.ss20;
-sub k by k.ss20;
-sub l by l.ss20;
-sub m by m.ss20;
-sub n by n.ss20;
-sub o by o.ss20;
-sub p by p.ss20;
-sub q by q.ss20;
-sub r by r.ss20;
-sub s by s.ss20;
-sub t by t.ss20;
-sub u by u.ss20;
-sub v by v.ss20;
-sub w by w.ss20;
-sub x by x.ss20;
-sub y by y.ss20;
-sub z by z.ss20;
-";
-labels = (
-{
-language = dflt;
-value = "Tabular latin";
-},
-{
-language = KOR;
-value = "Tabular latin";
-}
-);
-tag = ss20;
-}
-);
 fontMaster = (
 {
 axesValues = (
@@ -644,6 +576,12 @@ instances = (
 axesValues = (
 100
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.84507;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.15493;
@@ -654,6 +592,12 @@ weightClass = 100;
 {
 axesValues = (
 200
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.56338;
@@ -666,6 +610,12 @@ weightClass = 200;
 axesValues = (
 300
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.28169;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.71831;
@@ -677,6 +627,12 @@ weightClass = 300;
 axesValues = (
 400
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 1;
 };
@@ -685,6 +641,12 @@ name = Regular;
 {
 axesValues = (
 500
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.18868;
@@ -697,6 +659,12 @@ weightClass = 500;
 axesValues = (
 600
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.37736;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.62264;
@@ -707,6 +675,12 @@ weightClass = 600;
 {
 axesValues = (
 700
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.56604;
@@ -720,6 +694,12 @@ weightClass = 700;
 axesValues = (
 800
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.75472;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.24528;
@@ -730,6 +710,12 @@ weightClass = 800;
 {
 axesValues = (
 900
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.9434;
@@ -742,6 +728,12 @@ weightClass = 900;
 axesValues = (
 100
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.84507;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.15493;
@@ -752,6 +744,12 @@ weightClass = 100;
 {
 axesValues = (
 200
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.56338;
@@ -764,6 +762,12 @@ weightClass = 200;
 axesValues = (
 300
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.28169;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.71831;
@@ -775,6 +779,12 @@ weightClass = 300;
 axesValues = (
 400
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 1;
 };
@@ -783,6 +793,12 @@ name = Regular;
 {
 axesValues = (
 500
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.18868;
@@ -795,6 +811,12 @@ weightClass = 500;
 axesValues = (
 600
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.37736;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.62264;
@@ -805,6 +827,12 @@ weightClass = 600;
 {
 axesValues = (
 700
+);
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
 );
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.56604;
@@ -818,6 +846,12 @@ weightClass = 700;
 axesValues = (
 800
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.75472;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.24528;
@@ -829,6 +863,12 @@ weightClass = 800;
 axesValues = (
 900
 );
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 instanceInterpolations = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.9434;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = 0.0566;
@@ -837,6 +877,12 @@ name = Black;
 weightClass = 900;
 },
 {
+customParameters = (
+{
+name = "Add Feature";
+value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+}
+);
 name = Regular;
 type = variable;
 }
