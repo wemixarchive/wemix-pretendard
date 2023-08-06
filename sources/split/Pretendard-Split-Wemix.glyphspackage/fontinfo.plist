@@ -580,6 +580,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -597,6 +616,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -614,6 +652,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -631,6 +688,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -646,6 +722,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -663,6 +758,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -680,6 +794,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -698,6 +831,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -715,6 +867,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -732,6 +903,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -749,6 +939,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -766,6 +975,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -783,6 +1011,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -798,6 +1045,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -815,6 +1081,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -832,6 +1117,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -850,6 +1154,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -867,6 +1190,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 instanceInterpolations = {
@@ -881,6 +1223,25 @@ customParameters = (
 {
 name = "Add Feature";
 value = "ss20;featureNames {\012    name \"Tabular latin\";\012};\012\012sub A by A.ss20;\012sub B by B.ss20;\012sub C by C.ss20;\012sub D by D.ss20;\012sub E by E.ss20;\012sub F by F.ss20;\012sub G by G.ss20;\012sub H by H.ss20;\012sub I by I.ss20;\012sub J by J.ss20;\012sub K by K.ss20;\012sub L by L.ss20;\012sub M by M.ss20;\012sub N by N.ss20;\012sub O by O.ss20;\012sub P by P.ss20;\012sub Q by Q.ss20;\012sub R by R.ss20;\012sub S by S.ss20;\012sub T by T.ss20;\012sub U by U.ss20;\012sub V by V.ss20;\012sub W by W.ss20;\012sub X by X.ss20;\012sub Y by Y.ss20;\012sub Z by Z.ss20;\012sub a by a.ss20;\012sub b by b.ss20;\012sub c by c.ss20;\012sub d by d.ss20;\012sub e by e.ss20;\012sub f by f.ss20;\012sub g by g.ss20;\012sub h by h.ss20;\012sub i by i.ss20;\012sub j by j.ss20;\012sub k by k.ss20;\012sub l by l.ss20;\012sub m by m.ss20;\012sub n by n.ss20;\012sub o by o.ss20;\012sub p by p.ss20;\012sub q by q.ss20;\012sub r by r.ss20;\012sub s by s.ss20;\012sub t by t.ss20;\012sub u by u.ss20;\012sub v by v.ss20;\012sub w by w.ss20;\012sub x by x.ss20;\012sub y by y.ss20;\012sub z by z.ss20;\012";
+},
+{
+name = "Rename Glyphs";
+value = (
+"one=one.1",
+"one.tf=one.1.tf",
+"six=six.ss01",
+"nine=nine.ss01",
+"six.tf=six.tf.ss01",
+"nine.tf=nine.tf.ss01"
+);
+},
+{
+name = "Decompose Glyphs";
+value = (
+six.full,
+nine.full,
+version
+);
 }
 );
 name = Regular;
