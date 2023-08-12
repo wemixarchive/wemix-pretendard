@@ -10,24 +10,280 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a b c d e f g h i j k l m n o p q r s t u v w x y z zero one two three four five six seven eight nine space period comma colon semicolon exclam question asterisk numbersign slash backslash hyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle at ampersand bar dollar won plus equal greater less asciitilde asciicircum percent upArrow northEastArrow rightArrow southEastArrow downArrow southWestArrow leftArrow northWestArrow leftRightArrow upDownArrow grave u100000 u100001 u100000.large u100001.large u100000.small u100001.small";
+code = "iconCircle iconCircleFill iconCircle.large iconCircleFill.large iconCircle.small iconCircleFill.small iconArrowClockwise";
 name = All;
 },
 {
-code = "u100000.small
-u100001.small";
+code = "iconArrowClockwise.small
+iconArrowClockwiseNumber.small
+iconArrowDown.small
+iconArrowLeft.small
+iconArrowRight.small
+iconArrowLongDown.small
+iconArrowLongLeft.small
+iconArrowLongRight.small
+iconArrowLongUp.small
+iconArrowUp.small
+iconCheck.small
+iconChevronDown.small
+iconChevronLeft.small
+iconChevronRight.small
+iconChevronUp.small
+iconCircle.small
+iconCircleCheck.small
+iconCircleCheckFill.small
+iconCircleFill.small
+iconClose.small
+iconCopy.small
+iconDivider.small
+iconDot.small
+iconExchangeRate.small
+iconExclam.small
+iconExclamFill.small
+iconExternal.small
+iconEye.small
+iconHeart.small
+iconMessage.small
+iconNeithStation.small
+iconPen.small
+iconPerson.small
+iconPersons.small
+iconSquare.small
+iconSquareFill.small
+iconSearch.small
+iconShare.small
+iconSorting.small
+iconTooltipFill.small
+logo40wonders.small
+logoBnb.small
+logoBnbFill.small
+logoBtc.small
+logoBtcFill.small
+logoEth.small
+logoEthFill.small
+logoKleva.small
+logoKlevaFill.small
+logoNile.small
+logoPapyrus.small
+logoRft.small
+logoUsdc.small
+logoUsdt.small
+logoUsdtFill.small
+logoWcd.small
+logoWcdFill.small
+logoWemix.small
+logoWemixdollar.small
+logoWemixexplorer.small
+logoWemixfi.small
+logoWemixplay.small
+logoWemixwallet.small
+logoWepublic.small
+";
 name = Symbol_Small;
 },
 {
-code = "u100000
-u100001";
+code = "iconArrowClockwise
+iconArrowClockwiseNumber
+iconArrowDown
+iconArrowLeft
+iconArrowRight
+iconArrowLongDown
+iconArrowLongLeft
+iconArrowLongRight
+iconArrowLongUp
+iconArrowUp
+iconCheck
+iconChevronDown
+iconChevronLeft
+iconChevronRight
+iconChevronUp
+iconCircle
+iconCircleCheck
+iconCircleCheckFill
+iconCircleFill
+iconClose
+iconCopy
+iconDivider
+iconDot
+iconExchangeRate
+iconExclam
+iconExclamFill
+iconExternal
+iconEye
+iconHeart
+iconMessage
+iconNeithStation
+iconPen
+iconPerson
+iconPersons
+iconSquare
+iconSquareFill
+iconSearch
+iconShare
+iconSorting
+iconTooltipFill
+logo40wonders
+logoBnb
+logoBnbFill
+logoBtc
+logoBtcFill
+logoEth
+logoEthFill
+logoKleva
+logoKlevaFill
+logoNile
+logoPapyrus
+logoRft
+logoUsdc
+logoUsdt
+logoUsdtFill
+logoWcd
+logoWcdFill
+logoWemix
+logoWemixdollar
+logoWemixexplorer
+logoWemixfi
+logoWemixplay
+logoWemixwallet
+logoWepublic
+";
 name = Symbol_Medium;
 },
 {
-code = "u100000.large
-u100001.large
+code = "iconArrowClockwise.large
+iconArrowClockwiseNumber.large
+iconArrowDown.large
+iconArrowLeft.large
+iconArrowRight.large
+iconArrowLongDown.large
+iconArrowLongLeft.large
+iconArrowLongRight.large
+iconArrowLongUp.large
+iconArrowUp.large
+iconCheck.large
+iconChevronDown.large
+iconChevronLeft.large
+iconChevronRight.large
+iconChevronUp.large
+iconCircle.large
+iconCircleCheck.large
+iconCircleCheckFill.large
+iconCircleFill.large
+iconClose.large
+iconCopy.large
+iconDivider.large
+iconDot.large
+iconExchangeRate.large
+iconExclam.large
+iconExclamFill.large
+iconExternal.large
+iconEye.large
+iconHeart.large
+iconMessage.large
+iconNeithStation.large
+iconPen.large
+iconPerson.large
+iconPersons.large
+iconSquare.large
+iconSquareFill.large
+iconSearch.large
+iconShare.large
+iconSorting.large
+iconTooltipFill.large
+logo40wonders.large
+logoBnb.large
+logoBnbFill.large
+logoBtc.large
+logoBtcFill.large
+logoEth.large
+logoEthFill.large
+logoKleva.large
+logoKlevaFill.large
+logoNile.large
+logoPapyrus.large
+logoRft.large
+logoUsdc.large
+logoUsdt.large
+logoUsdtFill.large
+logoWcd.large
+logoWcdFill.large
+logoWemix.large
+logoWemixdollar.large
+logoWemixexplorer.large
+logoWemixfi.large
+logoWemixplay.large
+logoWemixwallet.large
+logoWepublic.large
 ";
 name = Symbol_Large;
+},
+{
+code = "iconCircle
+iconCircleCheck
+iconExclam
+iconSquare
+logoBnb
+logoBtc
+logoEth
+logoKleva
+logoUsdt
+logoWcd
+iconCircle.large
+iconCircle.small
+iconCircleCheck.large
+iconCircleCheck.small
+iconExclam.large
+iconExclam.small
+iconSquare.large
+iconSquare.small
+logoBnb.large
+logoBnb.small
+logoBtc.large
+logoBtc.small
+logoEth.large
+logoEth.small
+logoKleva.large
+logoKleva.small
+logoUsdt.large
+logoUsdt.small
+logoWcd.large
+logoWcd.small
+";
+name = Symbol_Outline;
+},
+{
+code = "iconCircleFill
+iconCircleCheckFill
+iconExclamFill
+iconSquareFill
+logoBnbFill
+logoBtcFill
+logoEthFill
+logoKlevaFill
+logoUsdtFill
+logoWcdFill
+iconCircleFill.large
+iconCircleFill.small
+iconCircleCheckFill.large
+iconCircleCheckFill.small
+iconExclamFill.large
+iconExclamFill.small
+iconSquareFill.large
+iconSquareFill.small
+logoBnbFill.large
+logoBnbFill.small
+logoBtcFill.large
+logoBtcFill.small
+logoEthFill.large
+logoEthFill.small
+logoKlevaFill.large
+logoKlevaFill.small
+logoUsdtFill.large
+logoUsdtFill.small
+logoWcdFill.large
+logoWcdFill.small
+";
+name = Symbol_Fill;
 },
 {
 code = "@Symbol_Small
@@ -89,7 +345,7 @@ name = "Disable Subroutines";
 value = 1;
 }
 );
-date = "2023-08-08 15:00:30 +0000";
+date = "2023-08-12 15:00:30 +0000";
 familyName = "Wemix Pretendard Split Symbols";
 featurePrefixes = (
 {
@@ -102,29 +358,53 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ss15;
+code = "feature ss11;
+feature ss14;
+feature ss15;
 feature ss16;
 ";
 tag = aalt;
 },
 {
-code = "sub @Symbol_Medium by @Symbol_Small;
+code = "sub @Symbol_Fill by @Symbol_Outline;
 ";
 labels = (
 {
 language = dflt;
-value = "Small Symbols";
+value = "Outlined symbols";
+}
+);
+tag = ss11;
+},
+{
+code = "sub @Symbol_Outline by @Symbol_Fill;";
+labels = (
+{
+language = dflt;
+value = "Filled symbols";
+}
+);
+tag = ss14;
+},
+{
+code = "sub @Symbol_Medium by @Symbol_Small;
+sub @Symbol_Large by @Symbol_Small;";
+labels = (
+{
+language = dflt;
+value = "Small symbols";
 }
 );
 tag = ss15;
 },
 {
 code = "sub @Symbol_Medium by @Symbol_Large;
+sub @Symbol_Small by @Symbol_Large;
 ";
 labels = (
 {
 language = dflt;
-value = "Large Symbols";
+value = "Large symbols";
 }
 );
 tag = ss16;
@@ -544,6 +824,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -572,6 +927,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -600,6 +1030,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -628,6 +1133,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -654,6 +1234,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -682,6 +1337,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -710,6 +1440,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -739,6 +1544,81 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -767,6 +1647,1043 @@ value = (
 0,
 4
 );
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.9434;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.0566;
+};
+name = Black;
+weightClass = 900;
+},
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+2,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.84507;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.15493;
+};
+name = Thin;
+weightClass = 100;
+},
+{
+axesValues = (
+200
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+3,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.56338;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.43662;
+};
+name = ExtraLight;
+weightClass = 200;
+},
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+4,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 0.28169;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.71831;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+500
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+6,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.18868;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.81132;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+600
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+7,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.37736;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.62264;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+700
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+8,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.56604;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.43396;
+};
+isBold = 1;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+800
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+9,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+}
+);
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 0.75472;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = 0.24528;
+};
+name = ExtraBold;
+weightClass = 800;
+},
+{
+axesValues = (
+900
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+10,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Save as TrueType";
+value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 instanceInterpolations = {
@@ -781,6 +2698,81 @@ customParameters = (
 {
 name = "Variable Font Origin";
 value = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+},
+{
+name = "Rename Glyphs";
+value = (
+"iconArrowClockwise=iconArrowClockwise.large",
+"iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
+"iconArrowDown=iconArrowDown.large",
+"iconArrowLeft=iconArrowLeft.large",
+"iconArrowRight=iconArrowRight.large",
+"iconArrowSmallDown=iconArrowSmallDown.large",
+"iconArrowSmallLeft=iconArrowSmallLeft.large",
+"iconArrowSmallRight=iconArrowSmallRight.large",
+"iconArrowSmallUp=iconArrowSmallUp.large",
+"iconArrowUp=iconArrowUp.large",
+"iconCheck=iconCheck.large",
+"iconChevronDown=iconChevronDown.large",
+"iconChevronLeft=iconChevronLeft.large",
+"iconChevronRight=iconChevronRight.large",
+"iconChevronUp=iconChevronUp.large",
+"iconCircle=iconCircle.large",
+"iconCircleCheck=iconCircleCheck.large",
+"iconCircleCheckFill=iconCircleCheckFill.large",
+"iconCircleFill=iconCircleFill.large",
+"iconClose=iconClose.large",
+"iconCopy=iconCopy.large",
+"iconDivider=iconDivider.large",
+"iconDot=iconDot.large",
+"iconExchangeRate=iconExchangeRate.large",
+"iconExclam=iconExclam.large",
+"iconExclamFill=iconExclamFill.large",
+"iconExternal=iconExternal.large",
+"iconEye=iconEye.large",
+"iconHeart=iconHeart.large",
+"iconMessage=iconMessage.large",
+"iconNeithStation=iconNeithStation.large",
+"iconPen=iconPen.large",
+"iconPerson=iconPerson.large",
+"iconPersons=iconPersons.large",
+"iconRectangle=iconRectangle.large",
+"iconRectangleFill=iconRectangleFill.large",
+"iconSearch=iconSearch.large",
+"iconShare=iconShare.large",
+"iconSorting=iconSorting.large",
+"iconTooltipFill=iconTooltipFill.large",
+"logo40wonders=logo40wonders.large",
+"logoBnb=logoBnb.large",
+"logoBnbFill=logoBnbFill.large",
+"logoBtc=logoBtc.large",
+"logoBtcFill=logoBtcFill.large",
+"logoEth=logoEth.large",
+"logoEthFill=logoEthFill.large",
+"logoKleva=logoKleva.large",
+"logoKlevaFill=logoKlevaFill.large",
+"logoNile=logoNile.large",
+"logoPapyrus=logoPapyrus.large",
+"logoRft=logoRft.large",
+"logoRftFill=logoRftFill.large",
+"logoUsdc=logoUsdc.large",
+"logoUsdcFill=logoUsdcFill.large",
+"logoUsdt=logoUsdt.large",
+"logoUsdtFill=logoUsdtFill.large",
+"logoWcd=logoWcd.large",
+"logoWcdFill=logoWcdFill.large",
+"logoWemix=logoWemix.large",
+"logoWemixdollar=logoWemixdollar.large",
+"logoWemixexplorer=logoWemixexplorer.large",
+"logoWemixfi=logoWemixfi.large",
+"logoWemixplay=logoWemixplay.large",
+"logoWemixwallet=logoWemixwallet.large",
+"logoWepublic=logoWepublic.large"
+);
+},
+{
+name = "Replace Feature";
+value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
 }
 );
 name = Regular;
@@ -3327,5 +5319,5 @@ com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
 UFOFormat = 3;
 };
 versionMajor = 0;
-versionMinor = 100;
+versionMinor = 0;
 }
