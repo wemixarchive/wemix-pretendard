@@ -78,7 +78,7 @@ logoWemixfi.small
 logoWemixplay.small
 logoWemixwallet.small
 logoWepublic.small
-";
+iconTooltip.small";
 name = Symbol_Small;
 },
 {
@@ -146,7 +146,7 @@ logoWemixfi
 logoWemixplay
 logoWemixwallet
 logoWepublic
-";
+iconTooltip";
 name = Symbol_Medium;
 },
 {
@@ -214,7 +214,7 @@ logoWemixfi.large
 logoWemixplay.large
 logoWemixwallet.large
 logoWepublic.large
-";
+iconTooltip.large";
 name = Symbol_Large;
 },
 {
@@ -248,7 +248,9 @@ logoUsdt.large
 logoUsdt.small
 logoWcd.large
 logoWcd.small
-";
+iconTooltip
+iconTooltip.small
+iconTooltip.large";
 name = Symbol_Outline;
 },
 {
@@ -282,6 +284,9 @@ logoUsdtFill.large
 logoUsdtFill.small
 logoWcdFill.large
 logoWcdFill.small
+iconTooltipFill
+iconTooltipFill.small
+iconTooltipFill.large
 ";
 name = Symbol_Fill;
 },
@@ -2773,6 +2778,32 @@ value = "ss16;featureNames {\012    name \"Medium symbols\";\012};\012\012sub @S
 );
 name = Regular;
 type = variable;
+},
+{
+axesValues = (
+45
+);
+exports = 0;
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = -0.03438;
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 1.12604;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = -0.09167;
+};
+name = "Master-Thin";
+weightClass = 100;
+},
+{
+axesValues = (
+930
+);
+exports = 0;
+instanceInterpolations = {
+"5C20EF92-B63D-42A8-8878-93C2863E0093" = 1.04875;
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = -0.01875;
+"C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265" = -0.03;
+};
+name = "Master-Black";
+weightClass = 900;
 }
 );
 kerningLTR = {
