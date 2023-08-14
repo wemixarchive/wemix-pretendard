@@ -9,7 +9,7 @@ shapes = (
 {
 alignment = -1;
 pos = (26,-2);
-ref = iconDot.fill;
+ref = iconDotOriginal.fill;
 }
 );
 width = 2948;
@@ -20,7 +20,7 @@ shapes = (
 {
 alignment = -1;
 pos = (56,-2);
-ref = iconDot.fill;
+ref = iconDotOriginal.fill;
 }
 );
 width = 3008;
@@ -31,7 +31,7 @@ shapes = (
 {
 alignment = -1;
 pos = (120,-2);
-ref = iconDot.fill;
+ref = iconDotOriginal.fill;
 }
 );
 width = 3136;
