@@ -94,5 +94,5 @@ width = 960;
 }
 );
 metricWidth = symbolBase;
-unicode = (1048969,1051638,1024036);
+unicode = 1024036;
 }
