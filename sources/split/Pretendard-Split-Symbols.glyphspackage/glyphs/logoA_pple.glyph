@@ -3,6 +3,19 @@ color = 11;
 glyphname = logoApple;
 layers = (
 {
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(960,-140,l),
+(960,820,l),
+(0,820,l),
+(0,-140,l)
+);
+}
+);
+};
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
