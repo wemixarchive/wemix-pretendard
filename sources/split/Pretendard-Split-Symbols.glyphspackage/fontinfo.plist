@@ -78,7 +78,11 @@ logoWemixfi.small
 logoWemixplay.small
 logoWemixwallet.small
 logoWepublic.small
-iconTooltip.small";
+iconTooltip.small
+logoApple.small
+logoFacebook.small
+logoGoogle.small
+logoGoogleplay.small";
 name = Symbol_Small;
 },
 {
@@ -146,7 +150,12 @@ logoWemixfi
 logoWemixplay
 logoWemixwallet
 logoWepublic
-iconTooltip";
+iconTooltip
+logoApple
+logoFacebook
+logoGoogle
+logoGoogleplay
+";
 name = Symbol_Medium;
 },
 {
@@ -214,7 +223,11 @@ logoWemixfi.large
 logoWemixplay.large
 logoWemixwallet.large
 logoWepublic.large
-iconTooltip.large";
+iconTooltip.large
+logoApple.large
+logoFacebook.large
+logoGoogle.large
+logoGoogleplay.large";
 name = Symbol_Large;
 },
 {
