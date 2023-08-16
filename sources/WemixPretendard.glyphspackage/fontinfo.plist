@@ -947,6 +947,10 @@ logoWemixplay.small
 logoWemixwallet.small
 logoWepublic.small
 iconTooltip.small
+logoApple.small
+logoFacebook.small
+logoGoogle.small
+logoGoogleplay.small
 ";
 name = Symbol_Small;
 },
@@ -1017,6 +1021,10 @@ logoWemixplay
 logoWemixwallet
 logoWepublic
 iconTooltip
+logoApple
+logoFacebook
+logoGoogle
+logoGoogleplay
 ";
 name = Symbol_Medium;
 },
@@ -1087,6 +1095,10 @@ logoWemixplay.large
 logoWemixwallet.large
 logoWepublic.large
 iconTooltip.large
+logoApple.large
+logoFacebook.large
+logoGoogle.large
+logoGoogleplay.large
 ";
 name = Symbol_Large;
 },
@@ -1268,7 +1280,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-08-13 15:00:30 +0000";
+date = "2023-08-16 15:00:30 +0000";
 familyName = "Wemix Pretendard";
 featurePrefixes = (
 {
