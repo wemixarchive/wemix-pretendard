@@ -3665,7 +3665,6 @@ sub comma.tf by comma.tf.ss19;
 sub trianglebullet by trianglebullet.ss19;
 sub trianglebullet.case by trianglebullet.case.ss19;
 ";
-disabled = 1;
 labels = (
 {
 language = dflt;
@@ -3729,7 +3728,6 @@ sub x by x.ss20;
 sub y by y.ss20;
 sub z by z.ss20;
 ";
-disabled = 1;
 labels = (
 {
 language = dflt;
@@ -5390,6 +5388,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -5967,6 +5971,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -6546,6 +6556,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -7124,6 +7140,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -7699,6 +7721,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -8278,6 +8306,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -8855,6 +8889,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -9435,6 +9475,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -10012,6 +10058,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -10595,6 +10647,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -11176,6 +11234,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -11759,6 +11823,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -12341,6 +12411,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -12920,6 +12996,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -13503,6 +13585,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -14084,6 +14172,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -14668,6 +14762,12 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -15249,6 +15349,12 @@ logoGoogle.large,
 logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
+);
+},
+{
+name = "Remove Features";
+value = (
+ss19
 );
 }
 );
@@ -16181,6 +16287,12 @@ value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_
 {
 name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 name = Regular;
