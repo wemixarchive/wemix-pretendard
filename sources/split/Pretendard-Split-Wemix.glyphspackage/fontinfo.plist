@@ -893,6 +893,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -1223,6 +1229,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -1553,6 +1565,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -1883,6 +1901,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -2211,6 +2235,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -2541,6 +2571,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -2871,6 +2907,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -3202,6 +3244,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -3532,6 +3580,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -3862,6 +3916,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -4192,6 +4252,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -4522,6 +4588,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -4852,6 +4924,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -5180,6 +5258,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -5510,6 +5594,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -5840,6 +5930,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -6171,6 +6267,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -6501,6 +6603,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 instanceInterpolations = {
@@ -6828,6 +6936,12 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 {
 name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+},
+{
+name = "Remove Features";
+value = (
+ss19
+);
 }
 );
 name = Regular;
