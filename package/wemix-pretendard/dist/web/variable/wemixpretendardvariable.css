@@ -1,0 +1,15 @@
+/*
+Copyright 2023 The WEMIX Pretendard Project Authors (https://github.com/wemixarchive/wemix-pretendard)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+@font-face {
+    font-family: "WEMIX Pretendard Variable";
+    font-weight: 45 920;
+    font-style: normal;
+    font-display: swap;
+    src: url("./woff2/WEMIXPretendardVariable.woff2") format("woff2-variations");
+}
