@@ -12,304 +12,6 @@ classes = (
 automatic = 1;
 code = "iconCircle iconCircleFill iconCircle.large iconCircleFill.large iconCircle.small iconCircleFill.small iconArrowClockwise";
 name = All;
-},
-{
-code = "iconArrowClockwise.small
-iconArrowClockwiseNumber.small
-iconArrowDown.small
-iconArrowLeft.small
-iconArrowRight.small
-iconArrowLongDown.small
-iconArrowLongLeft.small
-iconArrowLongRight.small
-iconArrowLongUp.small
-iconArrowUp.small
-iconCheck.small
-iconChevronDown.small
-iconChevronLeft.small
-iconChevronRight.small
-iconChevronUp.small
-iconCircle.small
-iconCircleCheck.small
-iconCircleCheckFill.small
-iconCircleFill.small
-iconClose.small
-iconCopy.small
-iconDivider.small
-iconDot2.small
-iconExchangeRate.small
-iconExclam.small
-iconExclamFill.small
-iconExternal.small
-iconEye.small
-iconHeart.small
-iconMessage.small
-iconNeithStation.small
-iconPen.small
-iconPerson.small
-iconPersons.small
-iconSquare.small
-iconSquareFill.small
-iconSearch.small
-iconShare.small
-iconSorting.small
-iconTooltipFill.small
-logo40wonders.small
-logoBnb.small
-logoBnbFill.small
-logoBtc.small
-logoBtcFill.small
-logoEth.small
-logoEthFill.small
-logoKleva.small
-logoKlevaFill.small
-logoNile.small
-logoPapyrus.small
-logoRft.small
-logoUsdc.small
-logoUsdt.small
-logoUsdtFill.small
-logoWcd.small
-logoWcdFill.small
-logoWemix.small
-logoWemixdollar.small
-logoWemixexplorer.small
-logoWemixfi.small
-logoWemixplay.small
-logoWemixwallet.small
-logoWepublic.small
-iconTooltip.small
-logoApple.small
-logoFacebook.small
-logoGoogle.small
-logoGoogleplay.small
-";
-name = Symbol_Small;
-},
-{
-code = "iconArrowClockwise
-iconArrowClockwiseNumber
-iconArrowDown
-iconArrowLeft
-iconArrowRight
-iconArrowLongDown
-iconArrowLongLeft
-iconArrowLongRight
-iconArrowLongUp
-iconArrowUp
-iconCheck
-iconChevronDown
-iconChevronLeft
-iconChevronRight
-iconChevronUp
-iconCircle
-iconCircleCheck
-iconCircleCheckFill
-iconCircleFill
-iconClose
-iconCopy
-iconDivider
-iconDot2
-iconExchangeRate
-iconExclam
-iconExclamFill
-iconExternal
-iconEye
-iconHeart
-iconMessage
-iconNeithStation
-iconPen
-iconPerson
-iconPersons
-iconSquare
-iconSquareFill
-iconSearch
-iconShare
-iconSorting
-iconTooltipFill
-logo40wonders
-logoBnb
-logoBnbFill
-logoBtc
-logoBtcFill
-logoEth
-logoEthFill
-logoKleva
-logoKlevaFill
-logoNile
-logoPapyrus
-logoRft
-logoUsdc
-logoUsdt
-logoUsdtFill
-logoWcd
-logoWcdFill
-logoWemix
-logoWemixdollar
-logoWemixexplorer
-logoWemixfi
-logoWemixplay
-logoWemixwallet
-logoWepublic
-iconTooltip
-logoApple
-logoFacebook
-logoGoogle
-logoGoogleplay
-";
-name = Symbol_Medium;
-},
-{
-code = "iconArrowClockwise.large
-iconArrowClockwiseNumber.large
-iconArrowDown.large
-iconArrowLeft.large
-iconArrowRight.large
-iconArrowLongDown.large
-iconArrowLongLeft.large
-iconArrowLongRight.large
-iconArrowLongUp.large
-iconArrowUp.large
-iconCheck.large
-iconChevronDown.large
-iconChevronLeft.large
-iconChevronRight.large
-iconChevronUp.large
-iconCircle.large
-iconCircleCheck.large
-iconCircleCheckFill.large
-iconCircleFill.large
-iconClose.large
-iconCopy.large
-iconDivider.large
-iconDot2.large
-iconExchangeRate.large
-iconExclam.large
-iconExclamFill.large
-iconExternal.large
-iconEye.large
-iconHeart.large
-iconMessage.large
-iconNeithStation.large
-iconPen.large
-iconPerson.large
-iconPersons.large
-iconSquare.large
-iconSquareFill.large
-iconSearch.large
-iconShare.large
-iconSorting.large
-iconTooltipFill.large
-logo40wonders.large
-logoBnb.large
-logoBnbFill.large
-logoBtc.large
-logoBtcFill.large
-logoEth.large
-logoEthFill.large
-logoKleva.large
-logoKlevaFill.large
-logoNile.large
-logoPapyrus.large
-logoRft.large
-logoUsdc.large
-logoUsdt.large
-logoUsdtFill.large
-logoWcd.large
-logoWcdFill.large
-logoWemix.large
-logoWemixdollar.large
-logoWemixexplorer.large
-logoWemixfi.large
-logoWemixplay.large
-logoWemixwallet.large
-logoWepublic.large
-iconTooltip.large
-logoApple.large
-logoFacebook.large
-logoGoogle.large
-logoGoogleplay.large
-";
-name = Symbol_Large;
-},
-{
-code = "iconCircle
-iconCircleCheck
-iconExclam
-iconSquare
-logoBnb
-logoBtc
-logoEth
-logoKleva
-logoUsdt
-logoWcd
-iconCircle.large
-iconCircle.small
-iconCircleCheck.large
-iconCircleCheck.small
-iconExclam.large
-iconExclam.small
-iconSquare.large
-iconSquare.small
-logoBnb.large
-logoBnb.small
-logoBtc.large
-logoBtc.small
-logoEth.large
-logoEth.small
-logoKleva.large
-logoKleva.small
-logoUsdt.large
-logoUsdt.small
-logoWcd.large
-logoWcd.small
-iconTooltip
-iconTooltip.small
-iconTooltip.large";
-name = Symbol_Outline;
-},
-{
-code = "iconCircleFill
-iconCircleCheckFill
-iconExclamFill
-iconSquareFill
-logoBnbFill
-logoBtcFill
-logoEthFill
-logoKlevaFill
-logoUsdtFill
-logoWcdFill
-iconCircleFill.large
-iconCircleFill.small
-iconCircleCheckFill.large
-iconCircleCheckFill.small
-iconExclamFill.large
-iconExclamFill.small
-iconSquareFill.large
-iconSquareFill.small
-logoBnbFill.large
-logoBnbFill.small
-logoBtcFill.large
-logoBtcFill.small
-logoEthFill.large
-logoEthFill.small
-logoKlevaFill.large
-logoKlevaFill.small
-logoUsdtFill.large
-logoUsdtFill.small
-logoWcdFill.large
-logoWcdFill.small
-iconTooltipFill
-iconTooltipFill.small
-iconTooltipFill.large
-";
-name = Symbol_Fill;
-},
-{
-code = "@Symbol_Small
-@Symbol_Medium
-@Symbol_Large";
-name = Symbol;
 }
 );
 customParameters = (
@@ -365,7 +67,7 @@ name = "Disable Subroutines";
 value = 1;
 }
 );
-date = "2023-08-12 15:00:30 +0000";
+date = "2023-08-20 15:00:30 +0000";
 familyName = "Wemix Pretendard Split Symbols";
 featurePrefixes = (
 {
@@ -373,63 +75,6 @@ automatic = 1;
 code = "languagesystem DFLT dflt;
 ";
 name = Languagesystems;
-}
-);
-features = (
-{
-automatic = 1;
-code = "feature ss11;
-feature ss14;
-feature ss15;
-feature ss16;
-";
-tag = aalt;
-},
-{
-code = "sub @Symbol_Fill by @Symbol_Outline;
-";
-labels = (
-{
-language = dflt;
-value = "Outlined symbols";
-}
-);
-tag = ss11;
-},
-{
-code = "# Remove @Symbol_Small to @Symbol_Large
-sub @Symbol_Outline by @Symbol_Fill;
-";
-labels = (
-{
-language = dflt;
-value = "Filled symbols";
-}
-);
-tag = ss14;
-},
-{
-code = "sub @Symbol_Medium by @Symbol_Small;
-sub @Symbol_Large by @Symbol_Small;";
-labels = (
-{
-language = dflt;
-value = "Small symbols";
-}
-);
-tag = ss15;
-},
-{
-code = "sub @Symbol_Medium by @Symbol_Large;
-sub @Symbol_Small by @Symbol_Large;
-";
-labels = (
-{
-language = dflt;
-value = "Large symbols";
-}
-);
-tag = ss16;
 }
 );
 fontMaster = (
@@ -833,41 +478,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-2,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -943,11 +555,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -1099,6 +711,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -1113,41 +745,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-3,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -1223,11 +822,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -1379,6 +978,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -1394,41 +1013,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-4,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -1504,11 +1090,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -1660,6 +1246,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -1675,41 +1281,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-5,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -1785,11 +1358,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -1941,6 +1514,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -1954,41 +1547,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-6,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -2064,11 +1624,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -2220,6 +1780,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -2235,41 +1815,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-7,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -2345,11 +1892,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -2501,6 +2048,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -2516,41 +2083,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-8,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -2626,11 +2160,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -2782,6 +2316,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -2798,41 +2352,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-9,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -2908,11 +2429,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -3064,6 +2585,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -3079,41 +2620,8 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-10,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -3189,11 +2697,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -3345,6 +2853,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -3359,45 +2887,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-2,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -3473,11 +2968,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -3629,6 +3124,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -3643,45 +3158,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-3,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -3757,11 +3239,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -3913,6 +3395,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -3928,45 +3430,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-4,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -4042,11 +3511,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -4198,6 +3667,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -4213,45 +3702,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-5,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -4327,11 +3783,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -4483,6 +3939,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -4496,45 +3972,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-6,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -4610,11 +4053,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -4766,6 +4209,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -4781,45 +4244,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-7,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -4895,11 +4325,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -5051,6 +4481,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -5066,45 +4516,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-8,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -5180,11 +4597,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -5336,6 +4753,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -5352,45 +4789,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-9,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -5466,11 +4870,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -5622,6 +5026,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -5637,45 +5061,12 @@ axesValues = (
 );
 customParameters = (
 {
-name = panose;
-value = (
-2,
-0,
-10,
-3,
-0,
-0,
-0,
-2,
-0,
-4
-);
-},
-{
 name = "Save as TrueType";
 value = 1;
 },
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -5751,11 +5142,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -5907,6 +5298,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 instanceInterpolations = {
@@ -5924,24 +5335,6 @@ value = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 {
 name = "Rename Glyphs";
 value = (
-"one=one.1",
-"one.tf=one.1.tf",
-"six=six.ss01",
-"nine=nine.ss01",
-"six.tf=six.tf.ss01",
-"nine.tf=nine.tf.ss01",
-"comma.tf=comma.tf.ss19",
-"comma=comma.ss19",
-"semicolon=semicolon.ss19",
-"comma.full=comma.full.ss19",
-"bullet=bullet.ss19",
-"hyphenbullet=hyphenbullet.ss19",
-"trianglebullet=trianglebullet.ss19",
-"bullet.case=bullet.case.ss19",
-"hyphenbullet.case=hyphenbullet.case.ss19",
-"whiteBullet=whiteBullet.ss19",
-"whiteBullet.case=whiteBullet.case.ss19",
-"trianglebullet.case=trianglebullet.case.ss19",
 "iconArrowClockwise=iconArrowClockwise.large",
 "iconArrowClockwiseNumber=iconArrowClockwiseNumber.large",
 "iconArrowDown=iconArrowDown.large",
@@ -6017,11 +5410,11 @@ value = (
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Small by @Symbol_Large;";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
 {
 name = "Replace Feature";
-value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Decompose Glyphs";
@@ -6173,6 +5566,26 @@ logoGoogle.small,
 logoGoogleplay.large,
 logoGoogleplay.small
 );
+},
+{
+name = "Replace Class";
+value = "Symbol_Small;iconDot.small\012iconArrowClockwise.small\012iconArrowClockwiseNumber.small\012iconArrowDown.small\012iconArrowLeft.small\012iconArrowRight.small\012iconArrowLongDown.small\012iconArrowLongLeft.small\012iconArrowLongRight.small\012iconArrowLongUp.small\012iconArrowUp.small\012iconCheck.small\012iconChevronDown.small\012iconChevronLeft.small\012iconChevronRight.small\012iconChevronUp.small\012iconCircle.small\012iconCircleCheck.small\012iconCircleCheckFill.small\012iconCircleFill.small\012iconClose.small\012iconCopy.small\012iconDivider.small\012iconDot2.small\012iconExchangeRate.small\012iconExclam.small\012iconExclamFill.small\012iconExternal.small\012iconEye.small\012iconHeart.small\012iconMessage.small\012iconNeithStation.small\012iconPen.small\012iconPerson.small\012iconPersons.small\012iconSquare.small\012iconSquareFill.small\012iconSearch.small\012iconShare.small\012iconSorting.small\012iconTooltipFill.small\012logo40wonders.small\012logoBnb.small\012logoBnbFill.small\012logoBtc.small\012logoBtcFill.small\012logoEth.small\012logoEthFill.small\012logoKleva.small\012logoKlevaFill.small\012logoNile.small\012logoPapyrus.small\012logoRft.small\012logoUsdc.small\012logoUsdt.small\012logoUsdtFill.small\012logoWcd.small\012logoWcdFill.small\012logoWemix.small\012logoWemixdollar.small\012logoWemixexplorer.small\012logoWemixfi.small\012logoWemixplay.small\012logoWemixwallet.small\012logoWepublic.small\012iconTooltip.small\012logoApple.small\012logoFacebook.small\012logoGoogle.small\012logoGoogleplay.small\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Medium;iconDot\012iconArrowClockwise\012iconArrowClockwiseNumber\012iconArrowDown\012iconArrowLeft\012iconArrowRight\012iconArrowLongDown\012iconArrowLongLeft\012iconArrowLongRight\012iconArrowLongUp\012iconArrowUp\012iconCheck\012iconChevronDown\012iconChevronLeft\012iconChevronRight\012iconChevronUp\012iconCircle\012iconCircleCheck\012iconCircleCheckFill\012iconCircleFill\012iconClose\012iconCopy\012iconDivider\012iconDot2\012iconExchangeRate\012iconExclam\012iconExclamFill\012iconExternal\012iconEye\012iconHeart\012iconMessage\012iconNeithStation\012iconPen\012iconPerson\012iconPersons\012iconSquare\012iconSquareFill\012iconSearch\012iconShare\012iconSorting\012iconTooltipFill\012logo40wonders\012logoBnb\012logoBnbFill\012logoBtc\012logoBtcFill\012logoEth\012logoEthFill\012logoKleva\012logoKlevaFill\012logoNile\012logoPapyrus\012logoRft\012logoUsdc\012logoUsdt\012logoUsdtFill\012logoWcd\012logoWcdFill\012logoWemix\012logoWemixdollar\012logoWemixexplorer\012logoWemixfi\012logoWemixplay\012logoWemixwallet\012logoWepublic\012iconTooltip\012logoApple\012logoFacebook\012logoGoogle\012logoGoogleplay\012";
+},
+{
+name = "Replace Class";
+value = "Symbol_Large;iconDot.large\012iconArrowClockwise.large\012iconArrowClockwiseNumber.large\012iconArrowDown.large\012iconArrowLeft.large\012iconArrowRight.large\012iconArrowLongDown.large\012iconArrowLongLeft.large\012iconArrowLongRight.large\012iconArrowLongUp.large\012iconArrowUp.large\012iconCheck.large\012iconChevronDown.large\012iconChevronLeft.large\012iconChevronRight.large\012iconChevronUp.large\012iconCircle.large\012iconCircleCheck.large\012iconCircleCheckFill.large\012iconCircleFill.large\012iconClose.large\012iconCopy.large\012iconDivider.large\012iconDot2.large\012iconExchangeRate.large\012iconExclam.large\012iconExclamFill.large\012iconExternal.large\012iconEye.large\012iconHeart.large\012iconMessage.large\012iconNeithStation.large\012iconPen.large\012iconPerson.large\012iconPersons.large\012iconSquare.large\012iconSquareFill.large\012iconSearch.large\012iconShare.large\012iconSorting.large\012iconTooltipFill.large\012logo40wonders.large\012logoBnb.large\012logoBnbFill.large\012logoBtc.large\012logoBtcFill.large\012logoEth.large\012logoEthFill.large\012logoKleva.large\012logoKlevaFill.large\012logoNile.large\012logoPapyrus.large\012logoRft.large\012logoUsdc.large\012logoUsdt.large\012logoUsdtFill.large\012logoWcd.large\012logoWcdFill.large\012logoWemix.large\012logoWemixdollar.large\012logoWemixexplorer.large\012logoWemixfi.large\012logoWemixplay.large\012logoWemixwallet.large\012logoWepublic.large\012iconTooltip.large\012logoApple.large\012logoFacebook.large\012logoGoogle.large\012logoGoogleplay.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Outline;iconDot\012iconDot.small\012iconDot.large\012iconCircle\012iconCircleCheck\012iconExclam\012iconSquare\012logoBnb\012logoBtc\012logoEth\012logoKleva\012logoUsdt\012logoWcd\012iconCircle.large\012iconCircle.small\012iconCircleCheck.large\012iconCircleCheck.small\012iconExclam.large\012iconExclam.small\012iconSquare.large\012iconSquare.small\012logoBnb.large\012logoBnb.small\012logoBtc.large\012logoBtc.small\012logoEth.large\012logoEth.small\012logoKleva.large\012logoKleva.small\012logoUsdt.large\012logoUsdt.small\012logoWcd.large\012logoWcd.small\012iconTooltip\012iconTooltip.small\012iconTooltip.large\012";
+},
+{
+name = "Add Class";
+value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\012iconCircleFill\012iconCircleCheckFill\012iconExclamFill\012iconSquareFill\012logoBnbFill\012logoBtcFill\012logoEthFill\012logoKlevaFill\012logoUsdtFill\012logoWcdFill\012iconCircleFill.large\012iconCircleFill.small\012iconCircleCheckFill.large\012iconCircleCheckFill.small\012iconExclamFill.large\012iconExclamFill.small\012iconSquareFill.large\012iconSquareFill.small\012logoBnbFill.large\012logoBnbFill.small\012logoBtcFill.large\012logoBtcFill.small\012logoEthFill.large\012logoEthFill.small\012logoKlevaFill.large\012logoKlevaFill.small\012logoUsdtFill.large\012logoUsdtFill.small\012logoWcdFill.large\012logoWcdFill.small\012iconTooltipFill\012iconTooltipFill.small\012iconTooltipFill.large\012";
 }
 );
 name = Regular;
