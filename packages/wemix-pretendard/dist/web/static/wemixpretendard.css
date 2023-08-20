@@ -1,0 +1,70 @@
+/*
+Copyright 2023 The WEMIX Pretendard Project Authors (https://github.com/wemixarchive/wemix-pretendard)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 900;
+    font-display: swap;
+    src: local("WEMIX Pretendard Black"), url("./woff2/WEMIXPretendard-Black.woff2") format("woff2"), url("./woff/WEMIXPretendard-Black.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 800;
+    font-display: swap;
+    src: local("WEMIX Pretendard ExtraBold"), url("./woff2/WEMIXPretendard-ExtraBold.woff2") format("woff2"), url("./woff/WEMIXPretendard-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 700;
+    font-display: swap;
+    src: local("WEMIX Pretendard Bold"), url("./woff2/WEMIXPretendard-Bold.woff2") format("woff2"), url("./woff/WEMIXPretendard-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 600;
+    font-display: swap;
+    src: local("WEMIX Pretendard SemiBold"), url("./woff2/WEMIXPretendard-SemiBold.woff2") format("woff2"), url("./woff/WEMIXPretendard-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 500;
+    font-display: swap;
+    src: local("WEMIX Pretendard Medium"), url("./woff2/WEMIXPretendard-Medium.woff2") format("woff2"), url("./woff/WEMIXPretendard-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 400;
+    font-display: swap;
+    src: local("WEMIX Pretendard Regular"), url("./woff2/WEMIXPretendard-Regular.woff2") format("woff2"), url("./woff/WEMIXPretendard-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 300;
+    font-display: swap;
+    src: local("WEMIX Pretendard Light"), url("./woff2/WEMIXPretendard-Light.woff2") format("woff2"), url("./woff/WEMIXPretendard-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 200;
+    font-display: swap;
+    src: local("WEMIX Pretendard ExtraLight"), url("./woff2/WEMIXPretendard-ExtraLight.woff2") format("woff2"), url("./woff/WEMIXPretendard-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard";
+    font-weight: 100;
+    font-display: swap;
+    src: local("WEMIX Pretendard Thin"), url("./woff2/WEMIXPretendard-Thin.woff2") format("woff2"), url("./woff/WEMIXPretendard-Thin.woff") format("woff");
+}
