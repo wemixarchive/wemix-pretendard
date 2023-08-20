@@ -10,7 +10,7 @@ pos = (314,0);
 ref = logoUsdt;
 }
 );
-width = 3523;
+width = 3524;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -21,7 +21,7 @@ pos = (314,0);
 ref = logoUsdt;
 }
 );
-width = 3523;
+width = 3524;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -32,7 +32,7 @@ pos = (314,0);
 ref = logoUsdt;
 }
 );
-width = 3523;
+width = 3524;
 }
 );
 metricLeft = iconCircle;

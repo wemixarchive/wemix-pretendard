@@ -10,7 +10,7 @@ pos = (-48,0);
 ref = logoKleva;
 }
 );
-width = 2799;
+width = 2800;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
@@ -21,7 +21,7 @@ pos = (-48,0);
 ref = logoKleva;
 }
 );
-width = 2799;
+width = 2800;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -32,7 +32,7 @@ pos = (-48,0);
 ref = logoKleva;
 }
 );
-width = 2799;
+width = 2800;
 }
 );
 metricLeft = iconCircle;
