@@ -1000,7 +1000,7 @@ name = ROS;
 value = "Adobe-Identity-0";
 }
 );
-date = "2023-08-19 15:00:30 +0000";
+date = "2023-08-20 15:00:30 +0000";
 familyName = "Wemix Pretendard";
 featurePrefixes = (
 {
@@ -1123,6 +1123,8 @@ feature cv13;
 feature sinf;
 feature fwid;
 feature pwid;
+feature ss19;
+feature ss20;
 ";
 tag = aalt;
 },
@@ -3970,6 +3972,78 @@ sub plus.full by plus;
 sub coloncurrency.full by coloncurrency;
 ";
 tag = pwid;
+},
+{
+automatic = 1;
+code = "sub bullet by bullet.ss19;
+sub comma by comma.ss19;
+sub hyphenbullet by hyphenbullet.ss19;
+sub semicolon by semicolon.ss19;
+sub trianglebullet by trianglebullet.ss19;
+sub bullet.case by bullet.case.ss19;
+sub comma.full by comma.full.ss19;
+sub comma.tf by comma.tf.ss19;
+sub hyphenbullet.case by hyphenbullet.case.ss19;
+sub trianglebullet.case by trianglebullet.case.ss19;
+";
+tag = ss19;
+},
+{
+automatic = 1;
+code = "sub A by A.ss20;
+sub B by B.ss20;
+sub C by C.ss20;
+sub D by D.ss20;
+sub E by E.ss20;
+sub F by F.ss20;
+sub G by G.ss20;
+sub H by H.ss20;
+sub I by I.ss20;
+sub J by J.ss20;
+sub K by K.ss20;
+sub L by L.ss20;
+sub M by M.ss20;
+sub N by N.ss20;
+sub O by O.ss20;
+sub P by P.ss20;
+sub Q by Q.ss20;
+sub R by R.ss20;
+sub S by S.ss20;
+sub T by T.ss20;
+sub U by U.ss20;
+sub V by V.ss20;
+sub W by W.ss20;
+sub X by X.ss20;
+sub Y by Y.ss20;
+sub Z by Z.ss20;
+sub a by a.ss20;
+sub b by b.ss20;
+sub c by c.ss20;
+sub d by d.ss20;
+sub e by e.ss20;
+sub f by f.ss20;
+sub g by g.ss20;
+sub h by h.ss20;
+sub i by i.ss20;
+sub j by j.ss20;
+sub k by k.ss20;
+sub l by l.ss20;
+sub m by m.ss20;
+sub n by n.ss20;
+sub o by o.ss20;
+sub p by p.ss20;
+sub q by q.ss20;
+sub r by r.ss20;
+sub s by s.ss20;
+sub t by t.ss20;
+sub u by u.ss20;
+sub v by v.ss20;
+sub w by w.ss20;
+sub x by x.ss20;
+sub y by y.ss20;
+sub z by z.ss20;
+";
+tag = ss20;
 }
 );
 fontMaster = (
@@ -4922,14 +4996,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -4941,6 +5007,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -5587,14 +5661,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -5606,6 +5672,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -6252,14 +6326,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -6271,6 +6337,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -6917,14 +6991,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -6936,6 +7002,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -7580,14 +7654,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -7599,6 +7665,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -8245,14 +8319,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -8264,6 +8330,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -8910,14 +8984,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -8929,6 +8995,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -9576,14 +9650,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -9595,6 +9661,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -10241,14 +10315,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -10260,6 +10326,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -10910,14 +10984,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -10929,6 +10995,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -11579,14 +11653,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -11598,6 +11664,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -12248,14 +12322,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -12267,6 +12333,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -12917,14 +12991,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -12936,6 +13002,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -13584,14 +13658,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -13603,6 +13669,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -14253,14 +14327,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -14272,6 +14338,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -14922,14 +14996,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -14941,6 +15007,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -15592,14 +15666,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -15611,6 +15677,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -16261,14 +16335,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -16280,6 +16346,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
@@ -17415,14 +17489,6 @@ value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @C
 },
 {
 name = "Replace Feature";
-value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
-},
-{
-name = "Replace Feature";
-value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
-},
-{
-name = "Replace Feature";
 value = "ss15;sub @Circled by @Circled_Medium;\012sub @Circled_Fill by @Circled_Fill_Medium;\012sub @Squared by @Squared_Medium;\012sub @Squared_Fill by @Squared_Fill_Medium;\012sub @Symbol_Medium by @Symbol_Small;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Large by @Symbol_Small;\012sub @Symbol_Fill_Large by @Symbol_Fill_Small;\012";
 },
 {
@@ -17434,6 +17500,14 @@ name = "Remove Features";
 value = (
 ss19
 );
+},
+{
+name = "Replace Feature";
+value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
+},
+{
+name = "Replace Feature";
+value = "ss14;sub @Circled by @Circled_Fill;\012sub @Circled_Medium by @Circled_Fill_Medium;\012sub @Squared by @Squared_Fill;\012sub @Squared_Medium by @Squared_Fill_Medium;\012sub @Symbol_Outline by @Symbol_Fill;";
 },
 {
 name = "Replace Class";
