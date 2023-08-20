@@ -68,7 +68,7 @@ value = 1;
 }
 );
 date = "2023-08-20 15:00:30 +0000";
-familyName = "Wemix Pretendard Split Symbols";
+familyName = "WEMIX Pretendard Split Symbols";
 featurePrefixes = (
 {
 automatic = 1;
@@ -7985,7 +7985,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2023 Kil Hyung-jin";
+value = "Copyright © 2023 Wemade Co., Ltd.";
 }
 );
 },
@@ -7994,7 +7994,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Original design by WEMIX; Combined and redesigned by Kil Hyung-jin.";
+value = "Original design by WEMIX; Combined and customized by Kil Hyung-jin.";
 }
 );
 },
@@ -8037,7 +8037,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "Pretendard is a trademark of Kil Hyung-jin.";
+value = "WEMIX is a trademark of Wemade Co., Ltd.; Pretendard is a trademark of Kil Hyung-jin.";
 }
 );
 }

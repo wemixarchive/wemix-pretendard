@@ -79,7 +79,7 @@ value = "Adobe-Identity-0";
 }
 );
 date = "2023-08-20 15:00:30 +0000";
-familyName = "Wemix Pretendard Split";
+familyName = "WEMIX Pretendard Split";
 featurePrefixes = (
 {
 automatic = 1;
@@ -10516,11 +10516,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2023 Kil Hyung-jin";
+value = "Copyright © 2023 Wemade Co., Ltd.";
 },
 {
 language = KOR;
-value = "Copyright © 2023 길형진";
+value = "Copyright © 2023 위메이드";
 }
 );
 },
@@ -10529,7 +10529,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Combined and redesigned to Pretendard by Kil Hyung-jin.";
+value = "Combined and redesigned to Pretendard by Kil Hyung-jin; Customized to WEMIX Pretendard by Kil Hyung-jin.";
 }
 );
 },
@@ -10576,7 +10576,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "Pretendard is a trademark of Kil Hyung-jin.";
+value = "WEMIX is a trademark of Wemade Co., Ltd.; Pretendard is a trademark of Kil Hyung-jin.";
 }
 );
 }

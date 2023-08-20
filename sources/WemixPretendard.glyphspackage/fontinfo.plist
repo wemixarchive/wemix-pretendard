@@ -1001,7 +1001,7 @@ value = "Adobe-Identity-0";
 }
 );
 date = "2023-08-20 15:00:30 +0000";
-familyName = "Wemix Pretendard";
+familyName = "WEMIX Pretendard";
 featurePrefixes = (
 {
 automatic = 1;
@@ -25208,11 +25208,11 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2023 Kil Hyung-jin";
+value = "Copyright © 2023 Wemade Co., Ltd.";
 },
 {
 language = KOR;
-value = "Copyright © 2023 길형진";
+value = "Copyright © 2023 위메이드";
 }
 );
 },
@@ -25221,7 +25221,7 @@ key = designers;
 values = (
 {
 language = dflt;
-value = "Base glyphs from Inter by Rasmus Andersson; Hangeul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin.";
+value = "Base glyphs from Inter by Rasmus Andersson; Hangeul glyphs from Noto Sans CJK(Source Han Sans) by Jang Soo-young and Kang Joo-yeon, Sandoll Communications; Kana glyphs from M PLUS 1p by Coji Morishita, UNDERFOREST DESIGN; Combined and redesigned to Pretendard by Kil Hyung-jin; Customized to WEMIX Pretendard by Kil Hyung-jin.";
 }
 );
 },
@@ -25268,7 +25268,7 @@ key = trademarks;
 values = (
 {
 language = dflt;
-value = "Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries.";
+value = "WEMIX is a trademark of Wemade Co., Ltd.; Pretendard is a trademark of Kil Hyung-jin; Inter UI and Inter is a trademark of rsms; Source is a trademark of Adobe in the United States and/or other countries.";
 }
 );
 }
