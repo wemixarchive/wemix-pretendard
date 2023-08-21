@@ -5581,8 +5581,8 @@ value = "Symbol_Fill;iconDot.fill\012iconDot.fill.small\012iconDot.fill.large\01
 }
 );
 instanceInterpolations = {
-"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 1.0888;
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = -0.02542;
+"B1F27B51-9973-4381-9301-4FE46FE1CA59" = 1.0888;
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = -0.06338;
 };
 name = Regular;
