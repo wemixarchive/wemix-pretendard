@@ -54,8 +54,10 @@
 다음과 같은 과정으로 완성 소스 파일에서 글꼴 파일을 생성할 수 있습니다.
 
 1. File → Export... 메뉴를 누릅니다.
-2. OTF 탭에서 File Format를 `.otf`로 설정하고, Options에서 `Remove Overlap`만 활성화해 글꼴을 내보냅니다. Outline Flavour는 무시하셔도 됩니다.
-3. 이후 완성 글꼴 파일 생성과 관련한 내용은 [scripts](../scripts/README.md)로 이동해 확인하세요.
+2. OTF 탭에서 File Format를 `.otf`만 설정하고, Options에서 `Remove Overlap`만 활성화해 글꼴을 내보냅니다. Outline Flavour는 무시하셔도 됩니다.
+3. 글꼴을 내보냈다면, 글꼴 정보에서 Family Name 뒤에 ` Variable`을 붙이고, 다시 Export 메뉴를 실행합니다.
+4. Variable Fonts 탭에서 File Format를 `.ttf`만 설정해 글꼴을 내보냅니다.
+5. 이후 완성 글꼴 파일 생성과 관련한 내용은 [scripts](../scripts/README.md)로 이동해 확인하세요.
 
 ## 문의
 
