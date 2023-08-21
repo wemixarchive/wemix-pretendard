@@ -7,12 +7,6 @@
 #### 애플리케이션
 - [Glyphs 3](http://glyphsapp.com)
 
-#### 개발 환경
-- zsh
-- python3
-- [fontTools](https://github.com/fonttools/fonttools)
-- [afdko](https://github.com/adobe-type-tools/afdko)
-
 ## 구조
 
 소스 파일은 다음과 같이 구성되어 있습니다:
