@@ -940,11 +940,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -955,110 +963,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -1437,11 +1357,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -1452,110 +1380,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -1934,11 +1774,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -1949,110 +1797,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -2431,11 +2191,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -2446,110 +2214,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -2926,11 +2606,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -2941,110 +2629,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -3423,11 +3023,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -3438,110 +3046,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -3920,11 +3440,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -3935,110 +3463,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -4418,11 +3858,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -4433,110 +3881,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -4915,11 +4275,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -4930,110 +4298,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -5412,11 +4692,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -5427,110 +4715,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -5909,11 +5109,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -5924,110 +5132,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -6406,11 +5526,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -6421,110 +5549,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -6903,11 +5943,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -6918,110 +5966,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -7398,11 +6358,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -7413,110 +6381,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -7895,11 +6775,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -7910,110 +6798,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -8392,11 +7192,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -8407,110 +7215,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -8890,11 +7610,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -8905,110 +7633,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -9387,11 +8027,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -9402,110 +8050,22 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
-name = "Remove Features";
-value = (
-ss19
-);
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
 },
 {
-name = "Decompose Glyphs";
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
+name = "Remove Features";
 value = (
-one.full,
-one.tf,
-six.full,
-six.tf,
-nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+ss03,
+ss19
 );
 }
 );
@@ -9881,11 +8441,19 @@ value = "calt;# ----------------------------------------------------------------
 },
 {
 name = "Replace Feature";
-value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;";
+value = "case;sub colon.case by colon;\012sub ellipsis.case by ellipsis;\012sub bullet.case by bullet;\012sub asterisk.case by asterisk;\012sub blackleftbullet.case by blackleftbullet;\012sub blackrightbullet.case by blackrightbullet;\012sub hyphenbullet.case by hyphenbullet;\012sub colon.tf.case by colon.tf;\012sub hyphen.case by hyphen;\012sub endash.case by endash;\012sub emdash.case by emdash;\012sub figuredash.case by figuredash;\012sub parenleft.case by parenleft;\012sub parenright.case by parenright;\012sub braceleft.case by braceleft;\012sub braceright.case by braceright;\012sub bracketleft.case by bracketleft;\012sub bracketright.case by bracketright;\012sub guillemetleft.case by guillemetleft;\012sub guillemetright.case by guillemetright;\012sub guilsinglleft.case by guilsinglleft;\012sub guilsinglright.case by guilsinglright;\012sub at.case by at;\012sub muchgreater.case by muchgreater;\012sub muchless.case by muchless;\012sub plus.case by plus;\012sub minus.case by minus;\012sub multiply.case by multiply;\012sub divide.case by divide;\012sub equal.case by equal;\012sub notequal.case by notequal;\012sub greater.case by greater;\012sub less.case by less;\012sub greaterequal.case by greaterequal;\012sub lessequal.case by lessequal;\012sub plusminus.case by plusminus;\012sub approxequal.case by approxequal;\012sub asciitilde.case by asciitilde;\012sub rightArrow.case by rightArrow;\012sub leftArrow.case by leftArrow;\012sub leftRightArrow.case by leftRightArrow;\012sub rightDoubleArrow.case by rightDoubleArrow;\012sub leftDoubleArrow.case by leftDoubleArrow;\012sub leftRightDoubleArrow.case by leftRightDoubleArrow;\012sub leftLongArrow.case by leftLongArrow;\012sub rightLongArrow.case by rightLongArrow;\012sub leftRightLongArrow.case by leftRightLongArrow;\012sub leftLongDoubleArrow.case by leftLongDoubleArrow;\012sub rightLongDoubleArrow.case by rightLongDoubleArrow;\012sub leftRightLongDoubleArrow.case by leftRightLongDoubleArrow;\012sub openbullet.case by openbullet;\012sub blackSmallSquare.case by blackSmallSquare;\012sub upChevron by upChevron.case;\012sub downChevron by downChevron.case;\012sub leftChevron by leftChevron.case;\012sub rightChevron by rightChevron.case;\012sub leftLongArrow2.case by leftLongArrow2;\012sub rightLongArrow2.case by rightLongArrow2;\012sub trianglebullet.case by trianglebullet;\012";
 },
 {
 name = "Replace Feature";
-value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;";
+value = "ss05;@NULL_SS05 = [];\012ignore sub @NULL_SS05';\012\012lookup LOOKUP_SS05_1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
+},
+{
+name = "Replace Feature";
+value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Small;\012sub @Symbol_Medium by @Symbol_Large;\012sub @Symbol_Fill_Medium by @Symbol_Fill_Large;\012";
 },
 {
 name = "Replace Feature";
@@ -9896,110 +8464,30 @@ name = "Replace Feature";
 value = "ss16;sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
 {
+name = "Replace Feature";
+value = "cv13;cvParameters { \012	FeatUILabelNameID { \012	name \"Normal legibility one\";\012    name 3 1 0x409 \"Normal legibility one\";\012    name 3 1 0x412 \"Normal legibility one\";\012    name 1 0 0 \"Normal legibility one\";\012    name 1 3 0x23 \"Normal legibility one\";\012}; };\012sub one by one.1;\012sub one.tf by one.1.tf;\012sub one.ss01 by one.1;\012sub one.tf.ss01 by one.1.tf;\012";
+},
+{
+name = "Replace Feature";
+value = "cv03;cvParameters { FeatUILabelNameID { \012	name \"Normal six\";\012    name 3 1 0x409 \"Normal six\";\012    name 3 1 0x412 \"Normal six\";\012    name 1 0 0 \"Normal six\";\012    name 1 3 0x23 \"Normal six\";\012}; };\012sub six by six.ss01;\012sub six.tf by six.tf.ss01;\012";
+},
+{
+name = "Replace Feature";
+value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012    name 3 1 0x409 \"Normal nine\";\012    name 3 1 0x412 \"Normal nine\";\012    name 1 0 0 \"Normal nine\";\012    name 1 3 0x23 \"Normal nine\";\012}; };\012sub nine by nine.ss01;\012sub nine.tf by nine.tf.ss01;\012";
+},
+{
 name = "Remove Features";
 value = (
+ss03,
 ss19
 );
 },
 {
 name = "Decompose Glyphs";
 value = (
-one.full,
-one.tf,
 six.full,
-six.tf,
 nine.full,
-nine.tf,
-version,
-semicolon,
-comma.full,
-comma.tf,
-questiongreek,
-reversedsemicolon,
-semicolon.full,
-semicolon.tf,
-bullet.case,
-hyphenbullet.case,
-trianglebullet.case,
-colon.case,
-colon.tf,
-ellipsis.case,
-ellipsis.hang,
-uni204E,
-uni2051,
-asterisk.case,
-blackleftbullet.case,
-blackrightbullet.case,
-afii10048,
-softhyphen,
-hyphen__,
-hyphennobreak,
-hyphen.case,
-endash.case,
-horizontalbar,
-emdash.case,
-figuredash.case,
-parenright,
-parenleft.case,
-parenleft.hang,
-parenright.case,
-parenright.hang,
-braceright,
-braceleft.case,
-braceleft.hang,
-braceright.hang,
-braceright.case,
-bracketleft_quill,
-bracketright,
-bracketleft.case,
-bracketleft.hang,
-bracketright.case,
-bracketright.hang,
-guillemetleft.case,
-guillemetleft.hang,
-guillemetright.case,
-guillemetright.hang,
-guillemetleft,
-guilsinglleft.case,
-guilsinglleft.hang,
-guillemetright,
-guilsinglright.case,
-guilsinglright.hang,
-at.case,
-muchless,
-muchgreater.case,
-muchless.case,
-plus.case,
-minus.case,
-multiply.case,
-divide.case,
-notequal,
-equal.case,
-notequal.case,
-greater.case,
-less.case,
-greaterequal.case,
-lessequal.case,
-plusminus.case,
-approxequal.case,
-approxequal,
-asciitilde.case,
-rightArrow.case,
-leftArrow.case,
-leftRightArrow.case,
-rightDoubleArrow.case,
-leftDoubleArrow.case,
-leftRightDoubleArrow.case,
-leftLongArrow.case,
-rightLongArrow.case,
-leftRightLongArrow.case,
-leftLongDoubleArrow.case,
-rightLongDoubleArrow.case,
-leftRightLongDoubleArrow.case,
-openbullet.case,
-blackSmallSquare.case,
-leftLongArrow2.case,
-rightLongArrow2.case
+version
 );
 }
 );
