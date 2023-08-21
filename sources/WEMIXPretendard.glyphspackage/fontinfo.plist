@@ -27617,5 +27617,5 @@ com.typemytype.robofont.shouldAddPointsInSplineConversion = 1;
 UFOFormat = 3;
 };
 versionMajor = 1;
-versionMinor = 309;
+versionMinor = 0;
 }
