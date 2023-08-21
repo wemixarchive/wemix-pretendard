@@ -4,7 +4,7 @@ set -e
 ################################
 script_dir="$(cd "$(dirname "$0")" && pwd)"
 font_path="$script_dir/fonts"
-dist_path="$script_dir/../../package/wemix-pretendard/dist/public"
+dist_path="$script_dir/../../packages/wemix-pretendard/dist/public"
 font_static_prefix="WEMIXPretendard-"
 font_variable_prefix="WEMIXPretendardVariable"
 
