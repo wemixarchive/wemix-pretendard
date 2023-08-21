@@ -19,7 +19,7 @@ WEMIX Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원�
 
 ---
 
-모든 기능을 포함한 WEMIX Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `WEMIX Pretendard` 입니다.
+모든 기능을 포함한 WEMIX Pretendard를 웹폰트로 사용하려면 아래 코드를 사용하세요. 사용하는 font-family 이름은 `"WEMIX Pretendard"` 입니다.
 
 #### HTML
 
