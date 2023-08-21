@@ -24,13 +24,13 @@ WEMIX Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원�
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/static/wemixpretendard.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/static/wemixpretendard.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/static/wemixpretendard.css");
+@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/static/wemixpretendard.css");
 ```
 
 ---
@@ -42,13 +42,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/static/wemixpretendard-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/static/wemixpretendard-dynamic-subset.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/static/wemixpretendard-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/static/wemixpretendard-dynamic-subset.css");
 ```
 
 ---
@@ -60,13 +60,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/variable/wemixpretendardvariable-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/variable/wemixpretendardvariable-dynamic-subset.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/variable/wemixpretendardvariable-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/variable/wemixpretendardvariable-dynamic-subset.css");
 ```
 
 ---
@@ -78,13 +78,13 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/variable/wemixpretendardvariable.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/variable/wemixpretendardvariable.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.3.9/dist/web/variable/wemixpretendardvariable.css");
+@import url("https://cdn.jsdelivr.net/gh/wemixarchive/wemix-pretendard@v1.0.0/dist/web/variable/wemixpretendardvariable.css");
 ```
 
 ---
@@ -96,7 +96,6 @@ Pretendard에서는 웹폰트 용량 문제를 해결하기 위한 방법으로 
 ```css
 font-family: "WEMIX Pretendard Variable", "WEMIX Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 ```
-
 
 ## 크레딧
 
