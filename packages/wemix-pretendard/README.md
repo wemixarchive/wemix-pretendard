@@ -1,8 +1,8 @@
 # WEMIX Pretendard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../../docs/thumbnail/thumbnail-dark.svg">
-  <img src="../../docs/thumbnail/thumbnail.svg" alt="Thumbnail">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/95203349-b3e5-4d57-83dd-7b546b54fa6b">
+  <img src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/2c4aee02-fd2b-4cb8-97c9-f308265be5b2" alt="Thumbnail">
 </picture>
 
 WEMIX Pretendard는 WEMIX 서비스에서 알맞게 쓸 수 있는 현대적인 글꼴입니다. [Pretendard](https://github.com/orioncactus/pretendard) 글꼴 가족 중 하나인 WEMIX Pretendard는 읽기 환경에서 향상된 가독성과 시각 보정을 위해 추가적인 작업을 하지 않아도 되며, UI 아이콘과 고정폭 기본 라틴을 추가적으로 지원합니다.
