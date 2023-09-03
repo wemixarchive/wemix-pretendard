@@ -1,14 +1,13 @@
 {
 color = 11;
-glyphname = iconExclammark.large;
+glyphname = iconExchangeRateFill.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
-alignment = -1;
 pos = (0,-341);
-ref = iconExclammark;
+ref = iconExchangeRateFill;
 scale = (1.3333,1.3333);
 }
 );
@@ -20,7 +19,7 @@ shapes = (
 {
 alignment = -1;
 pos = (0,-341);
-ref = iconExclammark;
+ref = iconExchangeRateFill;
 scale = (1.3333,1.3333);
 }
 );
@@ -32,7 +31,7 @@ shapes = (
 {
 alignment = -1;
 pos = (0,-341);
-ref = iconExclammark;
+ref = iconExchangeRateFill;
 scale = (1.3333,1.3333);
 }
 );
