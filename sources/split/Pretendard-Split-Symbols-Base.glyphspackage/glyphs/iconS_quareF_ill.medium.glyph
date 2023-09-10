@@ -1,0 +1,77 @@
+{
+color = 11;
+glyphname = iconSquareFill.medium;
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1050,-110,l),
+(1050,790,l),
+(150,790,l),
+(150,-110,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 125;
+verticalShift = -85;
+width = 125;
+};
+};
+width = 1200;
+},
+{
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1050,-110,l),
+(1050,790,l),
+(150,790,l),
+(150,-110,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 125;
+verticalShift = -85;
+width = 125;
+};
+};
+width = 1200;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1050,-110,l),
+(1050,790,l),
+(150,790,l),
+(150,-110,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 125;
+verticalShift = -85;
+width = 125;
+};
+};
+width = 1200;
+}
+);
+userData = {
+RMXScaler = {
+source = iconSquareFill.small;
+};
+};
+}

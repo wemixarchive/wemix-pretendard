@@ -7,7 +7,7 @@ shapes = (
 {
 alignment = -1;
 pos = (80,0);
-ref = logoRft;
+ref = logoRft.small;
 }
 );
 width = 1120;
@@ -18,7 +18,7 @@ shapes = (
 {
 alignment = -1;
 pos = (80,0);
-ref = logoRft;
+ref = logoRft.small;
 }
 );
 width = 1120;
@@ -29,13 +29,13 @@ shapes = (
 {
 alignment = -1;
 pos = (80,0);
-ref = logoRft;
+ref = logoRft.small;
 }
 );
 width = 1120;
 }
 );
-metricLeft = iconCircle;
-metricRight = iconCircle;
+metricLeft = iconCircle.small;
+metricRight = iconCircle.small;
 unicode = 1024069;
 }

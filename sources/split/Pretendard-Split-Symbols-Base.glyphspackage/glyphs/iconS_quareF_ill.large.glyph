@@ -6,38 +6,72 @@ layers = (
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconSquareFill;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1260,-200,l),
+(1260,880,l),
+(180,880,l),
+(180,-200,l)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconSquareFill;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1260,-200,l),
+(1260,880,l),
+(180,880,l),
+(180,-200,l)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconSquareFill;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1260,-200,l),
+(1260,880,l),
+(180,880,l),
+(180,-200,l)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconSquareFill.small;
+};
+};
 }
