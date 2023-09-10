@@ -4,6 +4,7 @@ glyphname = iconCheck.large;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 closed = 1;
@@ -44,6 +45,7 @@ width = 1440;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 closed = 1;
@@ -84,6 +86,7 @@ width = 1440;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 closed = 1;
@@ -120,7 +123,7 @@ verticalShift = -170;
 width = 150;
 };
 };
-width = 1441;
+width = 1440;
 }
 );
 userData = {
