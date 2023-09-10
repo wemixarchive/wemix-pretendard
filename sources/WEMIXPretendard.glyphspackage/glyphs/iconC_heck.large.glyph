@@ -4,40 +4,131 @@ glyphname = iconCheck.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-341);
-ref = iconCheck;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1753,-169,o),
+(1792,-157,o),
+(1822,-124,cs),
+(3632,1834,ls),
+(3683,1888,o),
+(3683,1979,o),
+(3623,2033,cs),
+(3560,2091,o),
+(3475,2078,o),
+(3427,2027,cs),
+(1713,172,l),
+(911,974,ls),
+(857,1029,o),
+(769,1029,o),
+(715,974,cs),
+(661,920,o),
+(661,830,o),
+(715,775,cs),
+(1620,-130,ls),
+(1647,-157,o),
+(1686,-169,o),
+(1723,-169,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconCheck;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1745,-102,o),
+(1760,-94,o),
+(1773,-81,cs),
+(3583,1880,ls),
+(3609,1910,o),
+(3609,1958,o),
+(3581,1984,cs),
+(3552,2009,o),
+(3506,2014,o),
+(3476,1981,cs),
+(1713,77,l),
+(865,925,ls),
+(832,957,o),
+(790,951,o),
+(764,925,cs),
+(738,899,o),
+(738,855,o),
+(764,829,cs),
+(1669,-76,ls),
+(1689,-97,o),
+(1707,-102,o),
+(1720,-102,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconCheck;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1788,-252,o),
+(1843,-221,o),
+(1883,-178,cs),
+(3693,1780,ls),
+(3773,1866,o),
+(3773,2005,o),
+(3683,2091,cs),
+(3585,2184,o),
+(3446,2165,o),
+(3370,2081,cs),
+(1713,288,l),
+(972,1032,ls),
+(886,1118,o),
+(747,1118,o),
+(661,1032,cs),
+(571,942,o),
+(574,803,o),
+(661,718,cs),
+(1566,-187,ls),
+(1609,-230,o),
+(1670,-252,o),
+(1726,-252,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconCheck.small;
+};
+};
 }

@@ -4,40 +4,122 @@ glyphname = iconChevronUp.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-341);
-ref = iconChevronUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(857,311,o),
+(941,323,o),
+(989,371,cs),
+(2172,1551,l),
+(3355,371,ls),
+(3409,317,o),
+(3499,314,o),
+(3554,371,cs),
+(3608,428,o),
+(3605,513,o),
+(3551,567,cs),
+(2272,1849,ls),
+(2217,1904,o),
+(2130,1907,o),
+(2072,1849,cs),
+(793,567,ls),
+(736,510,o),
+(742,422,o),
+(793,371,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconChevronUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(868,395,o),
+(913,390,o),
+(943,420,cs),
+(2172,1649,l),
+(3404,420,ls),
+(3433,391,o),
+(3475,391,o),
+(3504,420,cs),
+(3534,449,o),
+(3531,491,o),
+(3504,518,cs),
+(2222,1800,ls),
+(2193,1829,o),
+(2151,1826,o),
+(2126,1800,cs),
+(843,518,ls),
+(813,489,o),
+(816,446,o),
+(843,420,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconChevronUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(832,221,o),
+(967,233,o),
+(1047,314,cs),
+(2172,1435,l),
+(3293,314,ls),
+(3383,224,o),
+(3525,230,o),
+(3608,314,cs),
+(3704,409,o),
+(3685,551,o),
+(3608,628,cs),
+(2326,1904,ls),
+(2233,1996,o),
+(2095,1984,o),
+(2015,1904,cs),
+(736,628,ls),
+(653,545,o),
+(643,403,o),
+(736,314,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconChevronUp.small;
+};
+};
 }

@@ -4,40 +4,146 @@ glyphname = iconArrowUp.large;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconArrowUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(735,-77,o),
+(748,-65,o),
+(748,-50,cs),
+(748,665,l),
+(1126,287,ls),
+(1137,276,o),
+(1153,276,o),
+(1164,287,cs),
+(1175,298,o),
+(1174,314,o),
+(1164,324,cs),
+(739,749,ls),
+(728,760,o),
+(712,759,o),
+(702,749,cs),
+(277,324,ls),
+(266,313,o),
+(267,297,o),
+(277,287,cs),
+(287,277,o),
+(304,276,o),
+(315,287,cs),
+(693,665,l),
+(693,-50,ls),
+(693,-65,o),
+(706,-77,o),
+(720,-77,cs)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconArrowUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(746,-97,o),
+(767,-75,o),
+(767,-50,cs),
+(767,617,l),
+(1112,273,ls),
+(1130,255,o),
+(1160,254,o),
+(1178,273,cs),
+(1196,292,o),
+(1195,320,o),
+(1177,338,cs),
+(753,763,ls),
+(735,781,o),
+(706,782,o),
+(687,763,cs),
+(263,338,ls),
+(244,319,o),
+(246,290,o),
+(263,273,cs),
+(284,253,o),
+(312,257,o),
+(328,273,cs),
+(674,617,l),
+(674,-50,ls),
+(674,-76,o),
+(695,-97,o),
+(720,-97,cs)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconArrowUp;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(759,-122,o),
+(792,-90,o),
+(792,-50,cs),
+(792,556,l),
+(1093,255,ls),
+(1122,226,o),
+(1168,228,o),
+(1195,255,cs),
+(1226,286,o),
+(1220,332,o),
+(1195,357,cs),
+(770,780,ls),
+(740,810,o),
+(695,806,o),
+(669,780,cs),
+(245,357,ls),
+(218,330,o),
+(215,284,o),
+(245,255,cs),
+(276,225,o),
+(320,229,o),
+(346,255,cs),
+(648,556,l),
+(648,-50,ls),
+(648,-89,o),
+(680,-122,o),
+(720,-122,cs)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconArrowUp.small;
+};
+};
 }

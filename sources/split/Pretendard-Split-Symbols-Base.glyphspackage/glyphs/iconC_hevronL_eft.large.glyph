@@ -4,40 +4,122 @@ glyphname = iconChevronLeft.large;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconChevronLeft;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(836,-113,o),
+(852,-115,o),
+(863,-104,cs),
+(876,-92,o),
+(872,-75,o),
+(863,-66,cs),
+(458,340,l),
+(863,746,ls),
+(875,758,o),
+(871,776,o),
+(863,784,cs),
+(852,795,o),
+(836,793,o),
+(826,783,cs),
+(401,359,ls),
+(390,348,o),
+(390,332,o),
+(401,321,cs),
+(826,-103,ls)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconChevronLeft;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(830,-136,o),
+(859,-135,o),
+(877,-117,cs),
+(895,-99,o),
+(895,-70,o),
+(877,-52,cs),
+(486,340,l),
+(877,732,ls),
+(894,749,o),
+(895,778,o),
+(877,797,cs),
+(857,818,o),
+(827,813,o),
+(811,797,cs),
+(387,373,ls),
+(369,355,o),
+(368,326,o),
+(387,307,cs),
+(811,-117,ls)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=baseSymbol.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-113);
-ref = iconChevronLeft;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(822,-163,o),
+(868,-163,o),
+(896,-135,cs),
+(924,-107,o),
+(923,-61,o),
+(895,-33,cs),
+(523,340,l),
+(895,713,ls),
+(922,740,o),
+(925,785,o),
+(896,815,cs),
+(867,845,o),
+(821,842,o),
+(794,815,cs),
+(370,390,ls),
+(342,362,o),
+(342,318,o),
+(370,290,cs),
+(794,-135,ls)
+);
 }
 );
-width = 1280;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 1440;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconChevronLeft.small;
+};
+};
 }
