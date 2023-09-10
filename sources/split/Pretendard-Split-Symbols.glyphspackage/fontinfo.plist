@@ -2947,14 +2947,17 @@ kerningLTR = {
 "B1F27B51-9973-4381-9301-4FE46FE1CA59" = {
 "@MMK_L_A" = {
 "@MMK_R_C" = -96;
+"@MMK_R_S" = 3;
 "@MMK_R_T" = -239;
 "@MMK_R_V" = -188;
 "@MMK_R_W" = -157;
 "@MMK_R_Y" = -208;
 "@MMK_R_approxequal" = -144;
 "@MMK_R_asciicircum" = -221;
+"@MMK_R_c" = 4;
 "@MMK_R_dagger" = -208;
 "@MMK_R_eight.sups" = -256;
+"@MMK_R_f" = 2;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_guillemetright" = -96;
 "@MMK_R_idieresis" = 128;
@@ -2965,13 +2968,10 @@ kerningLTR = {
 "@MMK_R_quotedblleft" = -368;
 "@MMK_R_quotedblright" = -288;
 "@MMK_R_registered" = -200;
+"@MMK_R_s" = 2;
 "@MMK_R_t" = -96;
 "@MMK_R_v" = -192;
 "@MMK_R_w" = -192;
-"@MMK_R_S" = 3;
-"@MMK_R_c" = 4;
-"@MMK_R_f" = 2;
-"@MMK_R_s" = 2;
 };
 "@MMK_L_Alphagreek" = {
 "@MMK_R_Omicrongreek" = -96;
@@ -2992,23 +2992,23 @@ kerningLTR = {
 "@MMK_R_idieresis" = 96;
 };
 "@MMK_L_C" = {
-"@MMK_R_idieresis" = 96;
-"@MMK_R_X" = 4;
 "@MMK_R_A" = 2;
+"@MMK_R_X" = 4;
+"@MMK_R_idieresis" = 96;
 "@MMK_R_v" = -1;
 };
 "@MMK_L_D" = {
 "@MMK_R_A" = -95;
 "@MMK_R_T" = -84;
 "@MMK_R_V" = -95;
+"@MMK_R_W" = 4;
+"@MMK_R_X" = 8;
 "@MMK_R_Y" = -94;
 "@MMK_R_comma" = -128;
+"@MMK_R_jdotless" = 0;
 "@MMK_R_quotedblbase" = -112;
 "@MMK_R_quotedblleft" = -96;
 "@MMK_R_registered" = -16;
-"@MMK_R_X" = 8;
-"@MMK_R_W" = 4;
-"@MMK_R_jdotless" = 0;
 };
 "@MMK_L_E" = {
 "@MMK_R_idieresis" = 208;
@@ -3024,6 +3024,7 @@ kerningLTR = {
 "@MMK_R_A" = -256;
 "@MMK_R_C" = 0;
 "@MMK_R_J" = -192;
+"@MMK_R_a" = 1;
 "@MMK_R_c" = -112;
 "@MMK_R_comma" = -112;
 "@MMK_R_m" = -15;
@@ -3032,27 +3033,26 @@ kerningLTR = {
 "@MMK_R_v" = -96;
 "@MMK_R_z" = -96;
 "@MMK_R_zero.subs" = -165;
-"@MMK_R_a" = 1;
 };
 "@MMK_L_G" = {
 "@MMK_R_A" = -64;
 "@MMK_R_T" = -84;
+"@MMK_R_V" = 8;
+"@MMK_R_X" = 4;
 "@MMK_R_Y" = -63;
 "@MMK_R_idieresis" = 96;
 "@MMK_R_idotless" = 96;
 "@MMK_R_jdotless" = 96;
-"@MMK_R_V" = 8;
-"@MMK_R_X" = 4;
 };
 "@MMK_L_H" = {
-"@MMK_R_idieresis" = 208;
-"@MMK_R_m" = 0;
 "@MMK_R_B" = 0;
 "@MMK_R_Idieresis" = -8;
+"@MMK_R_idieresis" = 208;
+"@MMK_R_m" = 0;
 };
 "@MMK_L_H.sups" = {
-"@MMK_R_m.sups" = 0;
 "@MMK_R_B.sups" = 0;
+"@MMK_R_m.sups" = 0;
 };
 "@MMK_L_Idieresis" = {
 "@MMK_R_parenright.case" = 76;
@@ -3063,6 +3063,7 @@ kerningLTR = {
 };
 "@MMK_L_K" = {
 "@MMK_R_C" = -113;
+"@MMK_R_S" = 1;
 "@MMK_R_approxequal" = -96;
 "@MMK_R_c" = -112;
 "@MMK_R_guillemetleft" = -144;
@@ -3073,13 +3074,13 @@ kerningLTR = {
 "@MMK_R_u" = -96;
 "@MMK_R_v" = -112;
 "@MMK_R_w" = -176;
-"@MMK_R_S" = 1;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 132;
 "@MMK_R_C" = -80;
 "@MMK_R_T" = -273;
 "@MMK_R_V" = -190;
+"@MMK_R_W" = 7;
 "@MMK_R_Y" = -87;
 "@MMK_R_asciicircum" = -368;
 "@MMK_R_dagger" = -272;
@@ -3093,7 +3094,6 @@ kerningLTR = {
 "@MMK_R_registered" = -228;
 "@MMK_R_t" = -64;
 "@MMK_R_v" = -192;
-"@MMK_R_W" = 7;
 };
 "@MMK_L_Omicrongreek" = {
 "@MMK_R_Alphagreek" = -96;
@@ -3103,12 +3103,12 @@ kerningLTR = {
 "@MMK_L_P" = {
 "@MMK_R_A" = -206;
 "@MMK_R_J" = -272;
+"@MMK_R_a" = 2;
 "@MMK_R_c" = -15;
 "@MMK_R_comma" = -112;
 "@MMK_R_hyphen" = -132;
 "@MMK_R_quotedblbase" = -400;
 "@MMK_R_zero.subs" = -232;
-"@MMK_R_a" = 2;
 };
 "@MMK_L_R" = {
 "@MMK_R_V" = -29;
@@ -3117,8 +3117,8 @@ kerningLTR = {
 "@MMK_R_idieresis" = 128;
 };
 "@MMK_L_S" = {
-"@MMK_R_idieresis" = 128;
 "@MMK_R_A" = 3;
+"@MMK_R_idieresis" = 128;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -239;
@@ -3175,6 +3175,7 @@ kerningLTR = {
 "@MMK_R_A" = -157;
 "@MMK_R_C" = -95;
 "@MMK_R_J" = -176;
+"@MMK_R_S" = 1;
 "@MMK_R_a" = -143;
 "@MMK_R_approxequal" = -176;
 "@MMK_R_c" = -143;
@@ -3186,15 +3187,14 @@ kerningLTR = {
 "@MMK_R_quotedblbase" = -304;
 "@MMK_R_s" = -96;
 "@MMK_R_zero.subs" = -265;
-"@MMK_R_S" = 1;
 };
 "@MMK_L_X" = {
+"@MMK_R_C" = 8;
 "@MMK_R_approxequal" = -144;
 "@MMK_R_c" = -80;
 "@MMK_R_guillemetleft" = -112;
 "@MMK_R_hyphen" = -194;
 "@MMK_R_registered" = -20;
-"@MMK_R_C" = 8;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -208;
@@ -3280,9 +3280,9 @@ kerningLTR = {
 };
 "@MMK_L_b.sups" = {
 "@MMK_R_parenright.sups" = -21;
+"@MMK_R_v.sups" = 1;
 "@MMK_R_w.sups" = -36;
 "@MMK_R_x.sups" = -43;
-"@MMK_R_v.sups" = 1;
 };
 "@MMK_L_bsmcyrillic" = {
 "@MMK_R_T" = -279;
@@ -3300,10 +3300,10 @@ kerningLTR = {
 "@MMK_L_c" = {
 "@MMK_R_T" = -208;
 "@MMK_R_T.sc" = -33;
+"@MMK_R_W" = 5;
 "@MMK_R_Y" = -176;
 "@MMK_R_registered" = -16;
 "@MMK_R_x" = -17;
-"@MMK_R_W" = 5;
 };
 "@MMK_L_c.sups" = {
 "@MMK_R_x.sups" = -11;
@@ -3339,13 +3339,13 @@ kerningLTR = {
 "@MMK_R_idotless" = 112;
 "@MMK_R_jdotless" = 96;
 "@MMK_R_one" = 128;
+"@MMK_R_parenleft" = -1;
+"@MMK_R_parenright" = -7;
+"@MMK_R_parenright.case" = -5;
 "@MMK_R_quotedbl" = 96;
 "@MMK_R_quotedblleft" = 96;
 "@MMK_R_registered" = 48;
 "@MMK_R_zero.subs" = -116;
-"@MMK_R_parenleft" = -1;
-"@MMK_R_parenright" = -7;
-"@MMK_R_parenright.case" = -5;
 };
 "@MMK_L_deltagreek" = {
 "@MMK_R_quotedblleft" = -176;
@@ -3358,13 +3358,13 @@ kerningLTR = {
 "@MMK_R_Y" = -236;
 "@MMK_R_registered" = -48;
 "@MMK_R_v" = -48;
-"@MMK_R_x" = -41;
 "@MMK_R_w" = 1;
+"@MMK_R_x" = -41;
 };
 "@MMK_L_e.sups" = {
-"@MMK_R_x.sups" = -28;
 "@MMK_R_v.sups" = 1;
 "@MMK_R_w.sups" = 0;
+"@MMK_R_x.sups" = -28;
 };
 "@MMK_L_eight" = {
 "@MMK_R_comma" = -100;
@@ -3376,10 +3376,10 @@ kerningLTR = {
 "@MMK_R_Alphagreek" = -256;
 "@MMK_R_J" = -320;
 "@MMK_R_comma" = -304;
+"@MMK_R_eight.sups" = 0;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_quotedblbase" = -400;
 "@MMK_R_t" = 96;
-"@MMK_R_eight.sups" = 0;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -96;
@@ -3419,6 +3419,9 @@ kerningLTR = {
 "@MMK_L_g" = {
 "@MMK_R_T" = -144;
 "@MMK_R_jdotless" = -2;
+};
+"@MMK_L_g.sups" = {
+"@MMK_R_jdotless.sups" = -1;
 };
 "@MMK_L_gammagreek" = {
 "@MMK_R_Alphagreek" = -192;
@@ -3480,18 +3483,18 @@ kerningLTR = {
 "@MMK_R_t" = 144;
 };
 "@MMK_L_idotless" = {
+"@MMK_R_B" = 0;
 "@MMK_R_V" = 96;
 "@MMK_R_W" = 96;
 "@MMK_R_idieresis" = 112;
 "@MMK_R_m" = 0;
 "@MMK_R_parenright" = 96;
-"@MMK_R_B" = 0;
 "@MMK_R_parenright.case" = -5;
 };
 "@MMK_L_idotless.sups" = {
+"@MMK_R_B.sups" = 0;
 "@MMK_R_m.sups" = 0;
 "@MMK_R_parenright.sups" = 64;
-"@MMK_R_B.sups" = 0;
 };
 "@MMK_L_iotadieresisgreek" = {
 "@MMK_R_Alphagreek" = -112;
@@ -3539,8 +3542,8 @@ kerningLTR = {
 "@MMK_R_jdotless" = 83;
 };
 "@MMK_L_parenleft.case" = {
-"@MMK_R_Idieresis" = 76;
 "@MMK_R_B" = 0;
+"@MMK_R_Idieresis" = 76;
 "@MMK_R_idotless" = -5;
 };
 "@MMK_L_parenleft.sups" = {
@@ -3614,6 +3617,7 @@ kerningLTR = {
 "@MMK_R_J" = -160;
 "@MMK_R_T" = -160;
 "@MMK_R_Z" = -96;
+"@MMK_R_a" = 2;
 "@MMK_R_a.sups" = 96;
 "@MMK_R_c" = -48;
 "@MMK_R_comma" = -176;
@@ -3622,19 +3626,18 @@ kerningLTR = {
 "@MMK_R_hyphen" = -116;
 "@MMK_R_quotedblbase" = -224;
 "@MMK_R_quotedblright" = 48;
+"@MMK_R_slash" = 3;
 "@MMK_R_t" = 97;
 "@MMK_R_v" = 24;
 "@MMK_R_w" = 24;
 "@MMK_R_x" = 24;
 "@MMK_R_zero.subs" = -149;
-"@MMK_R_a" = 2;
-"@MMK_R_slash" = 3;
 };
 "@MMK_L_r.sups" = {
+"@MMK_R_a.sups" = 2;
 "@MMK_R_c.sups" = -31;
 "@MMK_R_f.sups" = 66;
 "@MMK_R_t.sups" = 64;
-"@MMK_R_a.sups" = 2;
 };
 "@MMK_L_registered" = {
 "@MMK_R_A" = -200;
@@ -3682,19 +3685,19 @@ kerningLTR = {
 "@MMK_R_c" = -16;
 "@MMK_R_four" = -41;
 "@MMK_R_hyphen" = -57;
+"@MMK_R_idotless" = 0;
 "@MMK_R_jdotless" = 0;
 "@MMK_R_quotedblleft" = -112;
 "@MMK_R_quotedblright" = 36;
 "@MMK_R_s" = -28;
 "@MMK_R_zero.subs" = 99;
-"@MMK_R_idotless" = 0;
 };
 "@MMK_L_t.sups" = {
 "@MMK_R_B.sups" = 21;
 "@MMK_R_c.sups" = -11;
+"@MMK_R_idotless.sups" = 0;
 "@MMK_R_jdotless.sups" = 0;
 "@MMK_R_s.sups" = -19;
-"@MMK_R_idotless.sups" = 0;
 };
 "@MMK_L_two" = {
 "@MMK_R_four" = -44;
@@ -3728,10 +3731,10 @@ kerningLTR = {
 "@MMK_R_zero.subs" = -149;
 };
 "@MMK_L_v.sups" = {
+"@MMK_R_a.sups" = 1;
 "@MMK_R_c.sups" = -37;
 "@MMK_R_idotless.sups" = 66;
 "@MMK_R_jdotless.sups" = 75;
-"@MMK_R_a.sups" = 1;
 };
 "@MMK_L_vecyrillic" = {
 "@MMK_R_quotedblbase" = -112;
@@ -3752,15 +3755,15 @@ kerningLTR = {
 };
 "@MMK_L_x" = {
 "@MMK_R_T" = -182;
+"@MMK_R_a" = 0;
 "@MMK_R_approxequal" = -96;
 "@MMK_R_c" = -64;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_hyphen" = -64;
-"@MMK_R_a" = 0;
 };
 "@MMK_L_x.sups" = {
-"@MMK_R_c.sups" = -43;
 "@MMK_R_a.sups" = 0;
+"@MMK_R_c.sups" = -43;
 };
 "@MMK_L_z" = {
 "@MMK_R_T" = -96;
@@ -3778,9 +3781,6 @@ kerningLTR = {
 "@MMK_R_jdotless" = 182;
 "@MMK_R_one" = -265;
 "@MMK_R_v" = -149;
-};
-"@MMK_L_g.sups" = {
-"@MMK_R_jdotless.sups" = -1;
 };
 };
 "CD0E3B44-F66A-4791-B84C-A1128DC61275" = {
@@ -4579,14 +4579,17 @@ kerningLTR = {
 "5C20EF92-B63D-42A8-8878-93C2863E0093" = {
 "@MMK_L_A" = {
 "@MMK_R_C" = -96;
+"@MMK_R_S" = -84;
 "@MMK_R_T" = -261;
 "@MMK_R_V" = -301;
 "@MMK_R_W" = -244;
 "@MMK_R_Y" = -208;
 "@MMK_R_approxequal" = -144;
 "@MMK_R_asciicircum" = -308;
+"@MMK_R_c" = -126;
 "@MMK_R_dagger" = -208;
 "@MMK_R_eight.sups" = -256;
+"@MMK_R_f" = -50;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_guillemetright" = -96;
 "@MMK_R_idieresis" = 128;
@@ -4597,13 +4600,10 @@ kerningLTR = {
 "@MMK_R_quotedblleft" = -368;
 "@MMK_R_quotedblright" = -288;
 "@MMK_R_registered" = -200;
+"@MMK_R_s" = -63;
 "@MMK_R_t" = -96;
 "@MMK_R_v" = -192;
 "@MMK_R_w" = -192;
-"@MMK_R_S" = -84;
-"@MMK_R_c" = -126;
-"@MMK_R_f" = -50;
-"@MMK_R_s" = -63;
 };
 "@MMK_L_Alphagreek" = {
 "@MMK_R_Omicrongreek" = -96;
@@ -4624,23 +4624,23 @@ kerningLTR = {
 "@MMK_R_idieresis" = 96;
 };
 "@MMK_L_C" = {
-"@MMK_R_idieresis" = 96;
-"@MMK_R_X" = -67;
 "@MMK_R_A" = -67;
+"@MMK_R_X" = -67;
+"@MMK_R_idieresis" = 96;
 "@MMK_R_v" = 34;
 };
 "@MMK_L_D" = {
 "@MMK_R_A" = -130;
 "@MMK_R_T" = -97;
 "@MMK_R_V" = -130;
+"@MMK_R_W" = -134;
+"@MMK_R_X" = -142;
 "@MMK_R_Y" = -146;
 "@MMK_R_comma" = -128;
+"@MMK_R_jdotless" = 0;
 "@MMK_R_quotedblbase" = -112;
 "@MMK_R_quotedblleft" = -96;
 "@MMK_R_registered" = -16;
-"@MMK_R_X" = -142;
-"@MMK_R_W" = -134;
-"@MMK_R_jdotless" = 0;
 };
 "@MMK_L_E" = {
 "@MMK_R_idieresis" = 208;
@@ -4656,6 +4656,7 @@ kerningLTR = {
 "@MMK_R_A" = -256;
 "@MMK_R_C" = 0;
 "@MMK_R_J" = -192;
+"@MMK_R_a" = -34;
 "@MMK_R_c" = -112;
 "@MMK_R_comma" = -112;
 "@MMK_R_m" = -33;
@@ -4664,27 +4665,26 @@ kerningLTR = {
 "@MMK_R_v" = -96;
 "@MMK_R_z" = -96;
 "@MMK_R_zero.subs" = 8;
-"@MMK_R_a" = -34;
 };
 "@MMK_L_G" = {
 "@MMK_R_A" = -64;
 "@MMK_R_T" = -90;
+"@MMK_R_V" = -65;
+"@MMK_R_X" = -67;
 "@MMK_R_Y" = -98;
 "@MMK_R_idieresis" = 96;
 "@MMK_R_idotless" = 96;
 "@MMK_R_jdotless" = 96;
-"@MMK_R_V" = -65;
-"@MMK_R_X" = -67;
 };
 "@MMK_L_H" = {
-"@MMK_R_idieresis" = 208;
-"@MMK_R_m" = 0;
 "@MMK_R_B" = 0;
 "@MMK_R_Idieresis" = 235;
+"@MMK_R_idieresis" = 208;
+"@MMK_R_m" = 0;
 };
 "@MMK_L_H.sups" = {
-"@MMK_R_m.sups" = 0;
 "@MMK_R_B.sups" = 0;
+"@MMK_R_m.sups" = 0;
 };
 "@MMK_L_Idieresis" = {
 "@MMK_R_parenright.case" = 206;
@@ -4695,6 +4695,7 @@ kerningLTR = {
 };
 "@MMK_L_K" = {
 "@MMK_R_C" = -129;
+"@MMK_R_S" = -29;
 "@MMK_R_approxequal" = -96;
 "@MMK_R_c" = -112;
 "@MMK_R_guillemetleft" = -144;
@@ -4705,13 +4706,13 @@ kerningLTR = {
 "@MMK_R_u" = -96;
 "@MMK_R_v" = -112;
 "@MMK_R_w" = -176;
-"@MMK_R_S" = -29;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = -6;
 "@MMK_R_C" = -80;
 "@MMK_R_T" = -243;
 "@MMK_R_V" = -242;
+"@MMK_R_W" = -201;
 "@MMK_R_Y" = -385;
 "@MMK_R_asciicircum" = -368;
 "@MMK_R_dagger" = -272;
@@ -4725,7 +4726,6 @@ kerningLTR = {
 "@MMK_R_registered" = -228;
 "@MMK_R_t" = -64;
 "@MMK_R_v" = -192;
-"@MMK_R_W" = -201;
 };
 "@MMK_L_Omicrongreek" = {
 "@MMK_R_Alphagreek" = -96;
@@ -4735,12 +4735,12 @@ kerningLTR = {
 "@MMK_L_P" = {
 "@MMK_R_A" = -258;
 "@MMK_R_J" = -272;
+"@MMK_R_a" = -71;
 "@MMK_R_c" = -33;
 "@MMK_R_comma" = -112;
 "@MMK_R_hyphen" = 6;
 "@MMK_R_quotedblbase" = -400;
 "@MMK_R_zero.subs" = 11;
-"@MMK_R_a" = -71;
 };
 "@MMK_L_R" = {
 "@MMK_R_V" = -65;
@@ -4749,8 +4749,8 @@ kerningLTR = {
 "@MMK_R_idieresis" = 128;
 };
 "@MMK_L_S" = {
-"@MMK_R_idieresis" = 128;
 "@MMK_R_A" = -84;
+"@MMK_R_idieresis" = 128;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -261;
@@ -4807,6 +4807,7 @@ kerningLTR = {
 "@MMK_R_A" = -244;
 "@MMK_R_C" = -130;
 "@MMK_R_J" = -176;
+"@MMK_R_S" = -34;
 "@MMK_R_a" = -182;
 "@MMK_R_approxequal" = -176;
 "@MMK_R_c" = -182;
@@ -4818,15 +4819,14 @@ kerningLTR = {
 "@MMK_R_quotedblbase" = -304;
 "@MMK_R_s" = -96;
 "@MMK_R_zero.subs" = 12;
-"@MMK_R_S" = -34;
 };
 "@MMK_L_X" = {
+"@MMK_R_C" = -142;
 "@MMK_R_approxequal" = -144;
 "@MMK_R_c" = -80;
 "@MMK_R_guillemetleft" = -112;
 "@MMK_R_hyphen" = -125;
 "@MMK_R_registered" = -20;
-"@MMK_R_C" = -142;
 };
 "@MMK_L_Y" = {
 "@MMK_R_A" = -208;
@@ -4912,9 +4912,9 @@ kerningLTR = {
 };
 "@MMK_L_b.sups" = {
 "@MMK_R_parenright.sups" = -27;
+"@MMK_R_v.sups" = -34;
 "@MMK_R_w.sups" = -18;
 "@MMK_R_x.sups" = -35;
-"@MMK_R_v.sups" = -34;
 };
 "@MMK_L_bsmcyrillic" = {
 "@MMK_R_T" = -322;
@@ -4932,10 +4932,10 @@ kerningLTR = {
 "@MMK_L_c" = {
 "@MMK_R_T" = -208;
 "@MMK_R_T.sc" = -15;
+"@MMK_R_W" = -143;
 "@MMK_R_Y" = -176;
 "@MMK_R_registered" = -16;
 "@MMK_R_x" = 1;
-"@MMK_R_W" = -143;
 };
 "@MMK_L_c.sups" = {
 "@MMK_R_x.sups" = 1;
@@ -4971,13 +4971,13 @@ kerningLTR = {
 "@MMK_R_idotless" = 112;
 "@MMK_R_jdotless" = 96;
 "@MMK_R_one" = 128;
+"@MMK_R_parenleft" = 42;
+"@MMK_R_parenright" = 210;
+"@MMK_R_parenright.case" = 168;
 "@MMK_R_quotedbl" = 96;
 "@MMK_R_quotedblleft" = 96;
 "@MMK_R_registered" = 48;
 "@MMK_R_zero.subs" = 5;
-"@MMK_R_parenleft" = 42;
-"@MMK_R_parenright" = 210;
-"@MMK_R_parenright.case" = 168;
 };
 "@MMK_L_deltagreek" = {
 "@MMK_R_quotedblleft" = -176;
@@ -4990,13 +4990,13 @@ kerningLTR = {
 "@MMK_R_Y" = -366;
 "@MMK_R_registered" = -48;
 "@MMK_R_v" = -40;
-"@MMK_R_x" = -15;
 "@MMK_R_w" = -21;
+"@MMK_R_x" = -15;
 };
 "@MMK_L_e.sups" = {
-"@MMK_R_x.sups" = -10;
 "@MMK_R_v.sups" = -28;
 "@MMK_R_w.sups" = -14;
+"@MMK_R_x.sups" = -10;
 };
 "@MMK_L_eight" = {
 "@MMK_R_comma" = -55;
@@ -5008,10 +5008,10 @@ kerningLTR = {
 "@MMK_R_Alphagreek" = -256;
 "@MMK_R_J" = -320;
 "@MMK_R_comma" = -304;
+"@MMK_R_eight.sups" = 0;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_quotedblbase" = -400;
 "@MMK_R_t" = 96;
-"@MMK_R_eight.sups" = 0;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -96;
@@ -5051,6 +5051,9 @@ kerningLTR = {
 "@MMK_L_g" = {
 "@MMK_R_T" = -144;
 "@MMK_R_jdotless" = 50;
+};
+"@MMK_L_g.sups" = {
+"@MMK_R_jdotless.sups" = 34;
 };
 "@MMK_L_gammagreek" = {
 "@MMK_R_Alphagreek" = -192;
@@ -5112,18 +5115,18 @@ kerningLTR = {
 "@MMK_R_t" = 144;
 };
 "@MMK_L_idotless" = {
+"@MMK_R_B" = 0;
 "@MMK_R_V" = 96;
 "@MMK_R_W" = 96;
 "@MMK_R_idieresis" = 112;
 "@MMK_R_m" = 0;
 "@MMK_R_parenright" = 96;
-"@MMK_R_B" = 0;
 "@MMK_R_parenright.case" = 168;
 };
 "@MMK_L_idotless.sups" = {
+"@MMK_R_B.sups" = 0;
 "@MMK_R_m.sups" = 0;
 "@MMK_R_parenright.sups" = 64;
-"@MMK_R_B.sups" = 0;
 };
 "@MMK_L_iotadieresisgreek" = {
 "@MMK_R_Alphagreek" = -112;
@@ -5171,8 +5174,8 @@ kerningLTR = {
 "@MMK_R_jdotless" = -4;
 };
 "@MMK_L_parenleft.case" = {
-"@MMK_R_Idieresis" = 206;
 "@MMK_R_B" = 0;
+"@MMK_R_Idieresis" = 206;
 "@MMK_R_idotless" = 168;
 };
 "@MMK_L_parenleft.sups" = {
@@ -5246,6 +5249,7 @@ kerningLTR = {
 "@MMK_R_J" = -160;
 "@MMK_R_T" = -160;
 "@MMK_R_Z" = -96;
+"@MMK_R_a" = -76;
 "@MMK_R_a.sups" = 96;
 "@MMK_R_c" = -48;
 "@MMK_R_comma" = -176;
@@ -5254,19 +5258,18 @@ kerningLTR = {
 "@MMK_R_hyphen" = 5;
 "@MMK_R_quotedblbase" = -224;
 "@MMK_R_quotedblright" = 48;
+"@MMK_R_slash" = -84;
 "@MMK_R_t" = 62;
 "@MMK_R_v" = 24;
 "@MMK_R_w" = 24;
 "@MMK_R_x" = 24;
 "@MMK_R_zero.subs" = 7;
-"@MMK_R_a" = -76;
-"@MMK_R_slash" = -84;
 };
 "@MMK_L_r.sups" = {
+"@MMK_R_a.sups" = -50;
 "@MMK_R_c.sups" = -60;
 "@MMK_R_f.sups" = 8;
 "@MMK_R_t.sups" = 64;
-"@MMK_R_a.sups" = -50;
 };
 "@MMK_L_registered" = {
 "@MMK_R_A" = -200;
@@ -5314,19 +5317,19 @@ kerningLTR = {
 "@MMK_R_c" = -16;
 "@MMK_R_four" = 2;
 "@MMK_R_hyphen" = -39;
+"@MMK_R_idotless" = 0;
 "@MMK_R_jdotless" = 0;
 "@MMK_R_quotedblleft" = -112;
 "@MMK_R_quotedblright" = 60;
 "@MMK_R_s" = -15;
 "@MMK_R_zero.subs" = -5;
-"@MMK_R_idotless" = 0;
 };
 "@MMK_L_t.sups" = {
 "@MMK_R_B.sups" = 21;
 "@MMK_R_c.sups" = -11;
+"@MMK_R_idotless.sups" = 0;
 "@MMK_R_jdotless.sups" = 0;
 "@MMK_R_s.sups" = -11;
-"@MMK_R_idotless.sups" = 0;
 };
 "@MMK_L_two" = {
 "@MMK_R_four" = -44;
@@ -5360,10 +5363,10 @@ kerningLTR = {
 "@MMK_R_zero.subs" = 7;
 };
 "@MMK_L_v.sups" = {
+"@MMK_R_a.sups" = -28;
 "@MMK_R_c.sups" = -32;
 "@MMK_R_idotless.sups" = 8;
 "@MMK_R_jdotless.sups" = 75;
-"@MMK_R_a.sups" = -28;
 };
 "@MMK_L_vecyrillic" = {
 "@MMK_R_quotedblbase" = -112;
@@ -5384,15 +5387,15 @@ kerningLTR = {
 };
 "@MMK_L_x" = {
 "@MMK_R_T" = -8;
+"@MMK_R_a" = -13;
 "@MMK_R_approxequal" = -96;
 "@MMK_R_c" = -51;
 "@MMK_R_guillemetleft" = -96;
 "@MMK_R_hyphen" = -64;
-"@MMK_R_a" = -13;
 };
 "@MMK_L_x.sups" = {
-"@MMK_R_c.sups" = -35;
 "@MMK_R_a.sups" = -8;
+"@MMK_R_c.sups" = -35;
 };
 "@MMK_L_z" = {
 "@MMK_R_T" = -96;
@@ -5410,9 +5413,6 @@ kerningLTR = {
 "@MMK_R_jdotless" = -9;
 "@MMK_R_one" = 12;
 "@MMK_R_v" = 7;
-};
-"@MMK_L_g.sups" = {
-"@MMK_R_jdotless.sups" = 34;
 };
 };
 };

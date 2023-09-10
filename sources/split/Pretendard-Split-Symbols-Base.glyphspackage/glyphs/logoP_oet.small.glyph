@@ -705,5 +705,5 @@ visible = 1;
 width = 960;
 }
 );
-metricWidth = symbolBase;
+metricWidth = baseSymbol;
 }

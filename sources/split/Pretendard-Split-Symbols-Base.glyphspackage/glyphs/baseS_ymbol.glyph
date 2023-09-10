@@ -1,6 +1,6 @@
 {
 export = 0;
-glyphname = symbolBase;
+glyphname = baseSymbol;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";

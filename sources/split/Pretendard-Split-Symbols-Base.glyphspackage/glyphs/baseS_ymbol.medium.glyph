@@ -1,6 +1,6 @@
 {
 export = 0;
-glyphname = symbolBase.medium;
+glyphname = baseSymbol.medium;
 layers = (
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -10,7 +10,7 @@ shapes = (
 {
 alignment = -1;
 pos = (0,-85);
-ref = symbolBase;
+ref = baseSymbol;
 scale = (1.25,1.25);
 }
 );
@@ -24,7 +24,7 @@ shapes = (
 {
 alignment = -1;
 pos = (0,-85);
-ref = symbolBase;
+ref = baseSymbol;
 scale = (1.25,1.25);
 }
 );
@@ -38,7 +38,7 @@ shapes = (
 {
 alignment = -1;
 pos = (0,-85);
-ref = symbolBase;
+ref = baseSymbol;
 scale = (1.25,1.25);
 }
 );

@@ -381,5 +381,5 @@ nodes = (
 width = 960;
 }
 );
-metricWidth = symbolBase;
+metricWidth = baseSymbol;
 }
