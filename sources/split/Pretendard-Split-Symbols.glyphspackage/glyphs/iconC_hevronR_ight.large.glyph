@@ -4,40 +4,122 @@ glyphname = iconChevronRight.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-341);
-ref = iconChevronRight;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1572,-407,o),
+(1659,-407,o),
+(1713,-353,cs),
+(2996,926,ls),
+(3050,980,o),
+(3053,1068,o),
+(2996,1125,cs),
+(1713,2404,ls),
+(1656,2462,o),
+(1569,2456,o),
+(1517,2404,cs),
+(1460,2344,o),
+(1466,2259,o),
+(1517,2208,cs),
+(2697,1026,l),
+(1517,-157,ls),
+(1463,-211,o),
+(1463,-299,o),
+(1517,-353,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconChevronRight;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1596,-333,o),
+(1638,-333,o),
+(1667,-304,cs),
+(2946,975,ls),
+(2976,1005,o),
+(2976,1047,o),
+(2946,1076,cs),
+(1667,2355,ls),
+(1635,2387,o),
+(1593,2381,o),
+(1567,2355,cs),
+(1541,2330,o),
+(1540,2285,o),
+(1567,2257,cs),
+(2799,1026,l),
+(1567,-206,ls),
+(1540,-232,o),
+(1537,-275,o),
+(1567,-304,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
-alignment = -1;
-pos = (0,-340);
-ref = iconChevronRight;
-scale = (1.3333,1.3333);
+closed = 1;
+nodes = (
+(1546,-497,o),
+(1685,-497,o),
+(1771,-410,cs),
+(3050,872,ls),
+(3136,958,o),
+(3136,1094,o),
+(3050,1180,cs),
+(1771,2462,ls),
+(1685,2548,o),
+(1547,2548,o),
+(1460,2462,cs),
+(1371,2373,o),
+(1374,2233,o),
+(1460,2147,cs),
+(2581,1026,l),
+(1460,-96,ls),
+(1377,-179,o),
+(1367,-321,o),
+(1460,-410,cs)
+);
 }
 );
-width = 3860;
+userData = {
+RMXScaler = {
+height = 150;
+verticalShift = -170;
+width = 150;
+};
+};
+width = 4344;
 }
 );
-metricWidth = symbolBase.large;
+userData = {
+RMXScaler = {
+source = iconChevronRight.small;
+};
+};
 }

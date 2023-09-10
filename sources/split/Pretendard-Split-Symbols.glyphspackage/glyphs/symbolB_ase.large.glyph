@@ -4,48 +4,41 @@ glyphname = symbolBase.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricLeft = "=0";
+metricRight = "=0";
 shapes = (
 {
-closed = 1;
-nodes = (
-(3860,-906,l),
-(3860,2954,l),
-(0,2948,l),
-(0,-906,l)
-);
+alignment = -1;
+pos = (0,-513);
+ref = symbolBase;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
-closed = 1;
-nodes = (
-(3860,-906,l),
-(3860,2954,l),
-(0,2948,l),
-(0,-906,l)
-);
+alignment = -1;
+pos = (0,-513);
+ref = symbolBase;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-closed = 1;
-nodes = (
-(3860,-906,l),
-(3860,2954,l),
-(0,2948,l),
-(0,-906,l)
-);
+alignment = -1;
+pos = (0,-513);
+ref = symbolBase;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 }
 );
 note = $ICON_LARGE;

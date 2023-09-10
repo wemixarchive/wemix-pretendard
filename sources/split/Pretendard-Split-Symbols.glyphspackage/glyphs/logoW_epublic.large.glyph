@@ -4,40 +4,42 @@ glyphname = logoWepublic.large;
 layers = (
 {
 layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 alignment = -1;
-pos = (0,-341);
-ref = logoWepublic;
-scale = (1.3333,1.3333);
+pos = (0,-513);
+ref = logoWepublic.small;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 alignment = -1;
-pos = (0,-340);
-ref = logoWepublic;
-scale = (1.3333,1.3333);
+pos = (0,-513);
+ref = logoWepublic.small;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+metricWidth = "=symbolBase.large";
 shapes = (
 {
 alignment = -1;
-pos = (0,-340);
-ref = logoWepublic;
-scale = (1.3333,1.3333);
+pos = (0,-513);
+ref = logoWepublic.small;
+scale = (1.5,1.5);
 }
 );
-width = 3860;
+width = 4344;
 }
 );
-metricWidth = symbolBase.large;
 }
