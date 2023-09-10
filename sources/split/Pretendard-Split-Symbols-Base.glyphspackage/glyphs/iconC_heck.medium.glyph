@@ -123,6 +123,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024034;
 userData = {
 RMXScaler = {
 source = iconCheck.small;

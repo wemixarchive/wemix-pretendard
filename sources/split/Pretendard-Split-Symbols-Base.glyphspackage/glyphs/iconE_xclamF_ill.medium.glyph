@@ -171,6 +171,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024047;
 userData = {
 RMXScaler = {
 source = iconExclamFill.small;

@@ -120,6 +120,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024046;
 userData = {
 RMXScaler = {
 source = iconExclammark.small;

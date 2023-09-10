@@ -285,6 +285,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024077;
 userData = {
 RMXScaler = {
 source = iconExchangeRateFill.small;

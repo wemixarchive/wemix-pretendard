@@ -477,6 +477,7 @@ width = 125;
 width = 1201;
 }
 );
+unicode = 1024025;
 userData = {
 RMXScaler = {
 source = iconArrowClockwiseNumber.small;

@@ -204,6 +204,7 @@ width = 125;
 width = 1201;
 }
 );
+unicode = 1024042;
 userData = {
 RMXScaler = {
 source = iconCopy.small;

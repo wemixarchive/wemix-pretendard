@@ -231,6 +231,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024054;
 userData = {
 RMXScaler = {
 source = iconPerson.small;

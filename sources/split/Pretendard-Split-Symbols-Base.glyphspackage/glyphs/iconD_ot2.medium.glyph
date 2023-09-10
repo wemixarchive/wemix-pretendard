@@ -93,6 +93,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024044;
 userData = {
 RMXScaler = {
 source = iconDot2.small;

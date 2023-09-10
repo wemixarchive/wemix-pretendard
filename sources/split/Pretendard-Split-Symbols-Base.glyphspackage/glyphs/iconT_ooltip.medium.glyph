@@ -240,6 +240,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024061;
 userData = {
 RMXScaler = {
 source = iconTooltip.small;

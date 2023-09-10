@@ -165,6 +165,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024040;
 userData = {
 RMXScaler = {
 source = iconCircleCheckFill.small;

@@ -114,6 +114,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024036;
 userData = {
 RMXScaler = {
 source = iconChevronLeft.small;

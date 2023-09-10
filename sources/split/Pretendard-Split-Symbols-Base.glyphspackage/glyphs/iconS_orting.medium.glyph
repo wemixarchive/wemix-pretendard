@@ -318,6 +318,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024058;
 userData = {
 RMXScaler = {
 source = iconSorting.small;

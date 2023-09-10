@@ -186,6 +186,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024056;
 userData = {
 RMXScaler = {
 source = iconSearch.small;

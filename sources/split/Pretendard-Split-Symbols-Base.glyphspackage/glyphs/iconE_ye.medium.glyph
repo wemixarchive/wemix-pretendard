@@ -336,6 +336,7 @@ width = 125;
 width = 1199;
 }
 );
+unicode = 1024049;
 userData = {
 RMXScaler = {
 source = iconEye.small;

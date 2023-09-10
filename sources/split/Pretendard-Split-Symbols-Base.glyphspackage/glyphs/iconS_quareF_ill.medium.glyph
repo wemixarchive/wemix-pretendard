@@ -69,6 +69,7 @@ width = 125;
 width = 1200;
 }
 );
+unicode = 1024060;
 userData = {
 RMXScaler = {
 source = iconSquareFill.small;
