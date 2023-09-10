@@ -7,10 +7,10 @@ shapes = (
 {
 alignment = -1;
 pos = (242,0);
-ref = logoUsdc;
+ref = logoUsdc.small;
 }
 );
-width = 3380;
+width = 3378;
 },
 {
 layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
@@ -18,10 +18,10 @@ shapes = (
 {
 alignment = -1;
 pos = (242,0);
-ref = logoUsdc;
+ref = logoUsdc.small;
 }
 );
-width = 3380;
+width = 3378;
 },
 {
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
@@ -29,13 +29,13 @@ shapes = (
 {
 alignment = -1;
 pos = (242,0);
-ref = logoUsdc;
+ref = logoUsdc.small;
 }
 );
-width = 3380;
+width = 3378;
 }
 );
-metricLeft = iconCircle;
-metricRight = iconCircle;
+metricLeft = iconCircle.small;
+metricRight = iconCircle.small;
 unicode = 1024070;
 }
