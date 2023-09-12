@@ -6,7 +6,7 @@ script_dir="$(cd "$(dirname "$0")" && pwd)"
 font_path="$script_dir/fonts"
 dist_path="$script_dir/../../packages/wemix-pretendard/dist/public"
 font_static_prefix="WEMIXPretendardJP-"
-font_variable_prefix="WEMIXPretendardVariableJP"
+font_variable_prefix="WEMIXPretendardJPVariable"
 
 ################################
 echo "Clear font name"
