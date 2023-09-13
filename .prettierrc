@@ -1,5 +1,13 @@
 {
     "tabWidth": 4,
     "printWidth": 9999,
-    "singleQuote": false
+    "singleQuote": false,
+    "overrides": [
+        {
+            "files": "*.yml",
+            "options": {
+            "tabWidth": 2
+            }
+        }
+    ]
 }
