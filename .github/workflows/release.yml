@@ -24,6 +24,7 @@ jobs:
 
           # Zip
           (cd wemix-pretendard/dist && zip -rv - .) > WEMIXPretendard-${{ env.RELEASE_NAME }}.zip
+          (cd wemix-pretendard-jp/dist && zip -rv - .) > WEMIXPretendardJP-${{ env.RELEASE_NAME }}.zip
       - uses: softprops/action-gh-release@v1 # actions/create-release, actions/upload-release-asset is deprecated
         if: startsWith(github.ref, 'refs/tags/')
         env:
@@ -31,3 +32,4 @@ jobs:
         with:
           files: |
             packages/WEMIXPretendard-${{ env.RELEASE_NAME }}.zip
+            packages/WEMIXPretendardJP-${{ env.RELEASE_NAME }}.zip

@@ -1,0 +1,70 @@
+/*
+Copyright 2023 The WEMIX Pretendard Project Authors (https://github.com/wemixarchive/wemix-pretendard)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 900;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Black"), url("./woff2/WEMIXPretendardJP-Black.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Black.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 800;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP ExtraBold"), url("./woff2/WEMIXPretendardJP-ExtraBold.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 700;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Bold"), url("./woff2/WEMIXPretendardJP-Bold.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 600;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP SemiBold"), url("./woff2/WEMIXPretendardJP-SemiBold.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 500;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Medium"), url("./woff2/WEMIXPretendardJP-Medium.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 400;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Regular"), url("./woff2/WEMIXPretendardJP-Regular.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 300;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Light"), url("./woff2/WEMIXPretendardJP-Light.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 200;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP ExtraLight"), url("./woff2/WEMIXPretendardJP-ExtraLight.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+    font-family: "WEMIX Pretendard JP";
+    font-weight: 100;
+    font-display: swap;
+    src: local("WEMIX Pretendard JP Thin"), url("./woff2/WEMIXPretendardJP-Thin.woff2") format("woff2"), url("./woff/WEMIXPretendardJP-Thin.woff") format("woff");
+}

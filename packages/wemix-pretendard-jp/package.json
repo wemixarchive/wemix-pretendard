@@ -1,0 +1,22 @@
+{
+  "name": "wemix-pretendard-jp",
+  "version": "1.0.0",
+  "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+  "license": "OFL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wemixarchive/wemix-pretendard",
+    "directory": "packages/wemix-pretendard-jp"
+  },
+  "bugs": {
+    "url": "https://github.com/wemixarchive/wemix-pretendard/issues"
+  },
+  "homepage": "https://github.com/wemixarchive/wemix-pretendard",
+  "scripts": {
+    "subset": "NODE_ENV=production node ./subset.js",
+    "publish": "yarn npm publish --access public"
+  },
+  "devDependencies": {
+    "subset-utils": "workspace:^"
+  }
+}
