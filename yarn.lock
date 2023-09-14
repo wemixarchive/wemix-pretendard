@@ -2326,6 +2326,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"wemix-pretendard-jp@workspace:packages/wemix-pretendard-jp":
+  version: 0.0.0-use.local
+  resolution: "wemix-pretendard-jp@workspace:packages/wemix-pretendard-jp"
+  dependencies:
+    subset-utils: "workspace:^"
+  languageName: unknown
+  linkType: soft
+
 "wemix-pretendard-repo@workspace:.":
   version: 0.0.0-use.local
   resolution: "wemix-pretendard-repo@workspace:."

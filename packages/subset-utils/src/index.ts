@@ -24,7 +24,8 @@ const VARIABLE_PATH        = join(process.cwd(), "dist", "public", "variable");
 const VARIABLE_OUTPUT_PATH = join(process.cwd(), "dist", "web",    "variable");
 
 export enum FONTFAMILY {
-  WEMIXPretendard    = "WEMIXPretendard"
+  WEMIXPretendard   = "WEMIXPretendard",
+  WEMIXPretendardJP = "WEMIXPretendardJP"
 };
 
 const FONTWEIGHTS = [
