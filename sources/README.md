@@ -59,6 +59,10 @@
 4. Variable Fonts 탭에서 File Format를 `.ttf`만 설정해 글꼴을 내보냅니다.
 5. 이후 완성 글꼴 파일 생성과 관련한 내용은 [scripts](../scripts/README.md)로 이동해 확인하세요.
 
+## WEMIX Pretendard JP 소스 제작
+
+바탕 소스인 `PretendardJP.glyphspackage`를 바탕으로 WEMIX Pretendard와 동일한 과정으로 WEMIX Pretendard JP 소스를 만들 수 있습니다.
+
 ## 문의
 
 소스 파일에 대해 문의가 있다면 언제든지 orioncactus@gmail.com으로 알려주세요.
