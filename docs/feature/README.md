@@ -36,13 +36,13 @@ WEMIX Pretendard에서 사용할 수 있는 OpenType 기능을 안내합니다.
 
 ### `salt`—문자 대체
 
-<img width="1012" alt="salt" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/29496fbe-ac8a-4d79-8c1a-9d2c39060a89">
+<img width="1012" alt="salt" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/facb3462-15c0-404f-b8a4-878181231932">
 
 보다 장식적인 모양으로 표시합니다.
 
 ### `tnum`—고정폭 숫자
 
-<img width="1012" alt="tnum" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/13fa37ad-a54e-468a-8b11-1420ace7505d">
+<img width="1012" alt="tnum" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/c9c494cc-3e20-497d-b1b1-33c97d2cb342">
 
 숫자를 같은 폭으로 사용할 수 있습니다.
 
@@ -66,13 +66,13 @@ WEMIX Pretendard에서 사용할 수 있는 OpenType 기능을 안내합니다.
 
 ### `ss05`—한국 현지화
 
-<img width="1012" alt="ss05" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/0efe1a5e-5137-4374-b444-c2819deb4499">
+<img width="1012" alt="ss05" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/38537b69-f97c-4de5-8e1b-13bc5b474323">
 
 한국 환경에 맞는 모양으로 표시합니다.
 
 ### `ss06`—향상된 가독성
 
-<img width="1012" alt="ss06" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/8288bb8d-d32e-436c-90d3-8b1b831d6e8b">
+<img width="1012" alt="ss06" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/167bb67a-c30d-484b-8741-98708c06d02c">
 
 가독성을 개선한 모양으로 표시합니다.
 
@@ -90,43 +90,43 @@ WEMIX Pretendard에서 사용할 수 있는 OpenType 기능을 안내합니다.
 
 ### `ss11`—외곽선 심벌
 
-<img width="1012" alt="ss11" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/ef0e6f7a-1707-467f-8c4f-7b3974cf01fd">
+<img width="1012" alt="ss11" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/e6480c70-90bd-4d71-800b-5574f0c232a4">
 
 심벌을 외곽선 모양으로 표시합니다.
 
 ### `ss12`—원형 심벌
 
-<img width="1012" alt="ss12" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/db7cecfd-f06e-4111-8e2e-4090410ec38f">
+<img width="1012" alt="ss12" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/d57ceb1e-326d-425e-95dd-a2c5f7ca2075">
 
 심벌을 원형 모양으로 표시합니다.
 
 ### `ss13`—사각형 심벌
 
-<img width="1012" alt="ss13" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/98fe2b3a-7d6d-42bf-8977-b7b716b7b7d6">
+<img width="1012" alt="ss13" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/0b518bdd-00f1-41cb-879a-8cb5cb023130">
 
 심벌을 사각형 모양으로 표시합니다.
 
 ### `ss14`—채워진 심벌
 
-<img width="1012" alt="ss14" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/065da4a7-e232-485f-974f-75238fa4fde0">
+<img width="1012" alt="ss14" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/a6103dac-95ce-40e9-8b72-547fc0690c03">
 
 심벌을 채워진 모양으로 표시합니다.
 
 ### `ss15`—작은 심벌
 
-<img width="1012" alt="ss15" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/6557b8ea-eefd-416a-9123-835f60e62ec2">
+<img width="1012" alt="ss15" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/6b0630c4-271c-4744-ac31-e381b1eb5f95">
 
 심벌을 작은 크기로 표시합니다.
 
 ### `ss16`—큰 심벌
 
-<img width="1012" alt="ss16" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/a6ebc0bf-27db-4705-afd5-a9d1fd40b677">
+<img width="1012" alt="ss16" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/bbaaa6dd-7c6a-4d53-8cb5-0b87186a2618">
 
 심벌을 큰 크기로 표시합니다.
 
 ### `ss20`—고정폭 라틴
 
-<img width="1012" alt="ss20" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/c18d2012-d408-417b-96e2-e2df09bab3a1">
+<img width="1012" alt="ss20" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/9c43df90-e405-490e-8edc-7a53017cb2ac">
 
 기본 라틴을 `tnum`—고정폭 숫자와 폭이 동일한 고정폭으로 표시합니다.
 
@@ -143,3 +143,4 @@ OpenType 기능을 쓰시려면 아래와 같이 코드를 사용하세요:
 ```css
 font-feature-settings: "ss20";
 ```
+
