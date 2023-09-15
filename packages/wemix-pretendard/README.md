@@ -13,6 +13,10 @@ WEMIX Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원�
 
 ### [최신 버전 다운로드](https://github.com/wemixarchive/wemix-pretendard/releases/latest)
 
+## 패밀리
+
+[**WEMIX Pretendard JP**](/packages/wemix-pretendard-jp/README.md): 일본 환경에 적합하며, 추가 기능으로 한국 한자 환경에 맞춰 쓸 수 있습니다.
+
 ## 웹폰트
 
 [**이곳**](/packages/wemix-pretendard/docs/webfont/README.md)에서 웹폰트 문서를 확인할 수 있습니다.
