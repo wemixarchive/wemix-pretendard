@@ -15,7 +15,11 @@ WEMIX Pretendard는 9가지 굵기로 제공되며, 가변 글꼴 또한 지원�
 
 ## 웹폰트
 
-[**이곳**](/packages/wemix-pretendard/docs/webfont/README.md)에서 웹폰트 문서를 확인하실 수 있습니다.
+[**이곳**](/packages/wemix-pretendard/docs/webfont/README.md)에서 웹폰트 문서를 확인할 수 있습니다.
+
+## OpenType 기능
+
+[**이곳**](/docs/feature/README.md)에서 OpenType 기능 문서를 확인할 수 있습니다.
 
 ## 크레딧
 
