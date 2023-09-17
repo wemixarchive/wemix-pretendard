@@ -1083,7 +1083,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 100;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Thin.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Thin.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -2163,7 +2163,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 200;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-ExtraLight.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-ExtraLight.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -3243,7 +3243,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 300;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Light.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Light.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -4323,7 +4323,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 400;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Regular.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Regular.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -5403,7 +5403,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 500;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Medium.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Medium.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -6483,7 +6483,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 600;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-SemiBold.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-SemiBold.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -7563,7 +7563,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 700;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Bold.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Bold.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -8643,7 +8643,7 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 800;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-ExtraBold.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-ExtraBold.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
 /* [0] */
 @font-face {
@@ -9723,5 +9723,5 @@ http://scripts.sil.org/OFL
     font-display: swap;
     font-weight: 900;
     src: url(./woff2-dynamic-subset/WEMIXPretendardJP-Black.subset.119.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendardJP-Black.subset.119.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa059;
 }
