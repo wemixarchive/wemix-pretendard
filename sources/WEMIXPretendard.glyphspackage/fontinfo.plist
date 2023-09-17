@@ -4936,11 +4936,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -5581,11 +5583,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -6226,11 +6230,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -6871,11 +6877,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -7514,11 +7522,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -8159,11 +8169,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -8804,11 +8816,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -9450,11 +9464,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -10095,11 +10111,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -10744,11 +10762,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -11393,11 +11413,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -12042,11 +12064,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -12691,11 +12715,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -13338,11 +13364,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -13987,11 +14015,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -14636,11 +14666,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -15286,11 +15318,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -15935,11 +15969,13 @@ value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.s
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -17092,6 +17128,7 @@ name = "Replace Feature";
 value = "ss06;# Numberical\012sub four by four.ss01;\012sub four.tf by four.tf.ss01;\012\012# l\012sub l by l.ss02;\012sub lslash by lslash.ss02;\012sub lbar by lbar.ss02;\012sub lmidtilde by lmidtilde.ss02;\012sub lbelt by lbelt.ss02;\012sub ldot by ldot.ss02;\012sub lacute by lacute.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lcaron by lcaron.ss02;\012sub ldotbelow by ldotbelow.ss02;\012sub ldotbelowmacron by ldotbelowmacron.ss02;\012sub llinebelow by llinebelow.ss02;\012sub lcircumflexbelow by lcircumflexbelow.ss02;\012\012# I\012sub I by I.1;\012sub Idieresis by Idieresis.1;\012sub Idieresisacute by Idieresisacute.1;\012sub Istroke by Istroke.1;\012sub Itildebelow by Itildebelow.1;\012sub Igrave by Igrave.1;\012sub Iacute by Iacute.1;\012sub Icircumflex by Icircumflex.1;\012sub Itilde by Itilde.1;\012sub Imacron by Imacron.1;\012sub Ibreve by Ibreve.1;\012sub Iogonek by Iogonek.1;\012sub Idotaccent by Idotaccent.1;\012sub Icaron by Icaron.1;\012sub Idblgrave by Idblgrave.1;\012sub Iinvertedbreve by Iinvertedbreve.1;\012sub Ihookabove by Ihookabove.1;\012sub Idotbelow by Idotbelow.1;\012sub uni1F38 by uni1F38.1;\012sub uni1F39 by uni1F39.1;\012sub uni1F3A by uni1F3A.1;\012sub uni1F3B by uni1F3B.1;\012sub uni1F3C by uni1F3C.1;\012sub uni1F3D by uni1F3D.1;\012sub uni1F3E by uni1F3E.1;\012sub uni1F3F by uni1F3F.1;\012sub uni1FD8 by uni1FD8.1;\012sub uni1FD9 by uni1FD9.1;\012sub uni1FDA by uni1FDA.1;\012sub uni1FDB by uni1FDB.1;\012sub afii10055 by afii10055.1;\012sub afii10056 by afii10056.1;\012\012sub germandbls by germandbls.1;\012";
 },
 {
+disabled = 1;
 name = "Replace Feature";
 value = "ss10;sub @Circled_Medium by @Circled;\012sub @Circled_Fill_Medium by @Circled_Fill;\012sub @Squared_Medium by @Squared;\012sub @Squared_Fill_Medium by @Squared_Fill;\012sub @Symbol_Small by @Symbol_Medium;\012sub @Symbol_Fill_Small by @Symbol_Fill_Medium;\012sub @Symbol_Large by @Symbol_Medium;\012sub @Symbol_Fill_Large by @Symbol_Fill_Medium;\012";
 },
@@ -17122,6 +17159,7 @@ value = "cv04;cvParameters { FeatUILabelNameID { \012	name \"Normal nine\";\012 
 {
 name = "Remove Features";
 value = (
+ss01,
 ss03,
 ss19
 );
