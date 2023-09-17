@@ -480,14 +480,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -620,14 +620,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -761,14 +761,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -902,14 +902,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1041,14 +1041,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1182,14 +1182,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1323,14 +1323,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1465,14 +1465,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1606,14 +1606,14 @@ customParameters = (
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1750,14 +1750,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -1894,14 +1894,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2039,14 +2039,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2184,14 +2184,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2327,14 +2327,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2472,14 +2472,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2617,14 +2617,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2763,14 +2763,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -2908,14 +2908,14 @@ value = 1;
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
@@ -3049,14 +3049,14 @@ value = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 {
 name = "Rename Glyphs";
 value = (
-"upArrow=upArrow.ss20",
-"northEastArrow=northEastArrow.ss20",
-"rightArrow=rightArrow.ss20",
-"southEastArrow=southEastArrow.ss20",
-"downArrow=downArrow.ss20",
-"southWestArrow=southWestArrow.ss20",
-"leftArrow=leftArrow.ss20",
-"northWestArrow=northWestArrow.ss20"
+"upArrow=upArrow.ss19",
+"northEastArrow=northEastArrow.ss19",
+"rightArrow=rightArrow.ss19",
+"southEastArrow=southEastArrow.ss19",
+"downArrow=downArrow.ss19",
+"southWestArrow=southWestArrow.ss19",
+"leftArrow=leftArrow.ss19",
+"northWestArrow=northWestArrow.ss19"
 );
 },
 {
