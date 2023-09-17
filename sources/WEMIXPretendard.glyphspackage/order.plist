@@ -15246,5 +15246,16 @@ dngb_check.tag.medium,
 downChevron.tag.medium,
 leftChevron.tag.medium,
 rightChevron.tag.medium,
-upChevron.tag.medium
+upChevron.tag.medium,
+downArrow.ss19,
+iconDividerTight.large,
+iconDividerTight.medium,
+iconDividerTight.small,
+leftArrow.ss19,
+northEastArrow.ss19,
+northWestArrow.ss19,
+rightArrow.ss19,
+southEastArrow.ss19,
+southWestArrow.ss19,
+upArrow.ss19
 )
