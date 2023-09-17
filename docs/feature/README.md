@@ -52,12 +52,6 @@ WEMIX Pretendard에서 사용할 수 있는 OpenType 기능을 안내합니다.
 
 숫자와 라틴 문자를 명확히 구분하도록 숫자 0에 슬래시를 추가해 표시합니다.
 
-### `ss01`—굽은 스타일 6과 9
-
-<img width="1012" alt="ss01" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/4c96f45f-250a-453e-bed3-9dbaa920e87b">
-
-일반적인 숫자 6과 9 모양으로 표시합니다.
-
 ### `ss02`—열린 스타일 4
 
 <img width="1012" alt="ss02" src="https://github.com/wemixarchive/wemix-pretendard/assets/7247848/e73d6dcc-b46a-41af-92d2-214120a38003">
@@ -143,4 +137,3 @@ OpenType 기능을 쓰시려면 아래와 같이 코드를 사용하세요:
 ```css
 font-feature-settings: "ss20";
 ```
-
