@@ -478,6 +478,19 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -604,6 +617,19 @@ axesValues = (
 200
 );
 customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
 {
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
@@ -733,6 +759,19 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -861,6 +900,19 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -986,6 +1038,19 @@ axesValues = (
 500
 );
 customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
 {
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
@@ -1115,6 +1180,19 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -1242,6 +1320,19 @@ axesValues = (
 700
 );
 customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
 {
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
@@ -1372,6 +1463,19 @@ axesValues = (
 );
 customParameters = (
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -1499,6 +1603,19 @@ axesValues = (
 900
 );
 customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
 {
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
@@ -1631,6 +1748,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -1760,6 +1890,19 @@ customParameters = (
 {
 name = "Save as TrueType";
 value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
 },
 {
 name = "Replace Feature";
@@ -1894,6 +2037,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -2026,6 +2182,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -2154,6 +2323,19 @@ customParameters = (
 {
 name = "Save as TrueType";
 value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
 },
 {
 name = "Replace Feature";
@@ -2288,6 +2470,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -2418,6 +2613,19 @@ customParameters = (
 {
 name = "Save as TrueType";
 value = 1;
+},
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
 },
 {
 name = "Replace Feature";
@@ -2553,6 +2761,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -2685,6 +2906,19 @@ name = "Save as TrueType";
 value = 1;
 },
 {
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
+},
+{
 name = "Replace Feature";
 value = "ss11;sub @Circled_Fill by @Circled;\012sub @Circled_Fill_Medium by @Circled_Medium;\012sub @Squared_Fill by @Squared;\012sub @Squared_Fill_Medium by @Squared_Medium;\012sub @Symbol_Fill by @Symbol_Outline;\012";
 },
@@ -2811,6 +3045,19 @@ customParameters = (
 {
 name = "Variable Font Origin";
 value = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+},
+{
+name = "Rename Glyphs";
+value = (
+"upArrow=upArrow.ss20",
+"northEastArrow=northEastArrow.ss20",
+"rightArrow=rightArrow.ss20",
+"southEastArrow=southEastArrow.ss20",
+"downArrow=downArrow.ss20",
+"southWestArrow=southWestArrow.ss20",
+"leftArrow=leftArrow.ss20",
+"northWestArrow=northWestArrow.ss20"
+);
 },
 {
 name = "Replace Feature";
