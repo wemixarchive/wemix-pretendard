@@ -67,7 +67,7 @@ name = "Disable Subroutines";
 value = 1;
 }
 );
-date = "2023-09-16 15:00:30 +0000";
+date = "2023-09-21 15:00:30 +0000";
 familyName = "WEMIX Pretendard Split Symbols";
 featurePrefixes = (
 {
