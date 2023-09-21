@@ -110,3 +110,13 @@ jobs:
           if [[ "$(git log @{push}..)" != "" ]]; then
             git push
           fi
+      - name: Update symbols assets
+        run: |
+          cp -f ./packages/wemix-pretendard/dist/web/static/woff2-subset/* ./docs/symbol/fonts/woff2-subset
+          cp -f ./packages/wemix-pretendard/dist/web/static/wemixpretendard-subset.css ./docs/symbol/fonts
+      - name: Commit updated example assets
+        uses: ./.github/actions/auto-commit
+        with:
+          file_pattern: docs/symbol/fonts/*
+          message: "fix: Update symbols assets"
+          branch: main
