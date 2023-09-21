@@ -104,7 +104,7 @@ width = 2172;
 );
 userData = {
 RMXScaler = {
-source = iconDivider.small;
+source = iconDividerTight.small;
 };
 };
 }

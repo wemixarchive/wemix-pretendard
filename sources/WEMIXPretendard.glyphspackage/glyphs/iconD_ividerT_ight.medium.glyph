@@ -105,7 +105,7 @@ width = 1810;
 unicode = 1024089;
 userData = {
 RMXScaler = {
-source = iconDivider.small;
+source = iconDividerTight.small;
 };
 };
 }
