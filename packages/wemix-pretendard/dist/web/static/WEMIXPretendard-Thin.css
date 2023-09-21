@@ -833,5 +833,5 @@
     font-display: swap;
     font-weight: 100;
     src: url(./woff2-dynamic-subset/WEMIXPretendard-Thin.subset.92.woff2) format("woff2"), url(./woff-dynamic-subset/WEMIXPretendard-Thin.subset.92.woff) format("woff");
-    unicode-range: U+fa000-fa058;
+    unicode-range: U+fa000-fa05c;
 }
