@@ -2,7 +2,7 @@
 glyphname = northEastArrow.ss19;
 layers = (
 {
-layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
 shapes = (
 {
 ref = iconArrowUpRight.small;
@@ -11,7 +11,7 @@ ref = iconArrowUpRight.small;
 width = 2896;
 },
 {
-layerId = "CD0E3B44-F66A-4791-B84C-A1128DC61275";
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 ref = iconArrowUpRight.small;
