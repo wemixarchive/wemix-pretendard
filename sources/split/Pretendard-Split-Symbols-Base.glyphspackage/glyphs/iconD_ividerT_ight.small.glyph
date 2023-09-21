@@ -81,5 +81,4 @@ nodes = (
 width = 480;
 }
 );
-metricWidth = baseSymbol;
 }
